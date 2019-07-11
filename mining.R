@@ -38,6 +38,11 @@ for(i in seq_along(author)) {
 }
 author <- unlist(author)
 
+# JOURNALS
+# get all the journal abbreviations
+journals <- MedlineTA(bar)
+
+# create umm some variable, * come back to this
 pubmed_data <- data.frame('Title'=ArticleTitle(bar),
                           'Author'=author,
                           'Year'=YearPubmed(bar),
