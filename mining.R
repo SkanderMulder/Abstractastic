@@ -38,9 +38,20 @@ for(i in seq_along(author)) {
 }
 author <- unlist(author)
 
+
+################################################################################
+# EXTRACT interesting data
+################################################################################
 # JOURNALS
-# get all the journal abbreviations
-journals <- MedlineTA(bar)
+# journal information can be extracted with functions
+# MedlineTA, Title and ISOAbbreviation (probs best for later snatching IF's)
+journals <- ISOAbbreviation(bar)
+
+# Country (!)
+Country(bar)
+
+# the Volume component (and RISmed function) can be used to hint at the age
+# of the journal (and impact?)
 
 # create umm some variable, * come back to this
 pubmed_data <- data.frame('Title'=ArticleTitle(bar),
