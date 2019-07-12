@@ -6,12 +6,12 @@ library(shiny)
 ui <- fluidPage(bootstrapPage(theme = "bootstrap2.css",
    
    # Application title
-   titlePanel("easyPubMed"),
-   ('s.t.mulder@umcg.nl'),
+   titlePanel("Abstratastic"),
+  ('Created by Dalibor and Skander'),
    # Sidebar with a slider input for number of bins 
    # sidebarLayout(
    #    sidebarPanel(
-        textInput("caption", "Search", "Galileo"),
+        textInput("caption", "Search", "Author"),
         verbatimTextOutput("value")
       ),
       
@@ -31,7 +31,7 @@ server <- function(input, output) {
     output$value <- renderText({ input$caption })
   }
   
-  source('testing.R')
+  source('new_testing.R')
   NewData <- reactive({a= CreateDFR(input$caption)})
   
   output$mytable  <- renderDataTable({ 

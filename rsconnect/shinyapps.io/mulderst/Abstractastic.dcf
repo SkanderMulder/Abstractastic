@@ -1,0 +1,12 @@
+name: Abstractastic
+title: Abstractastic
+username:
+account: mulderst
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1027104
+bundleId: 2224820
+url: https://mulderst.shinyapps.io/Abstractastic/
+when: 1562920883.16672
+asMultiple: FALSE
+asStatic: FALSE
