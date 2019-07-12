@@ -31,7 +31,7 @@ server <- function(input, output) {
     output$value <- renderText({ input$caption })
   }
   
-  source('new_testing.R')
+  source('new_testing.r')
   NewData <- reactive({a= CreateDFR(input$caption)})
   
   output$mytable  <- renderDataTable({ 
