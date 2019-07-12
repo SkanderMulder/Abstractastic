@@ -6,7 +6,7 @@ library(shiny)
 ui <- fluidPage(bootstrapPage(theme = "bootstrap2.css",
    
    # Application title
-   titlePanel("Abstratastic"),
+   titlePanel("Abstractastic"),
   ('Created by Dalibor and Skander'),
    # Sidebar with a slider input for number of bins 
    # sidebarLayout(
