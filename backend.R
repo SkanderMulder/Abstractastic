@@ -5,7 +5,6 @@
 # year, abstract and outputs a wordcloud and an html with formatted mined text.
 ################################################################################
 # LOAD libraries
-################################################################################ 
 library(rmarkdown)
 library(RISmed)
 library(SnowballC)
@@ -14,7 +13,7 @@ library(SnowballC)
 # QUERY and actual data download
 ################################################################################
 # this is the text string with name of author as passed to the PubMed search bar
-query <- 'Pirnik Z[Author]'
+query <- 'Henning RH[Author]'
 # create object of class 'EUtilsSummary'
 foo <- EUtilsSummary(query)
 # create the main object of class 'Medline' which contains probably all mined data
@@ -22,7 +21,7 @@ foo <- EUtilsSummary(query)
 bar <- EUtilsGet(foo)
 
 ################################################################################
-# SOME HOUSEKEEPING
+# some HOUSEKEEPING
 ################################################################################
 # Format the author character strings
 author <- Author(bar)
@@ -52,23 +51,16 @@ Country(bar)
 pubmed_data <- data.frame('Title'=ArticleTitle(bar),
                           'Author'=author,
                           'Year'=YearPubmed(bar),
-                          'Abstract'=AbstractText(bar))
-nrow(pubmed_data)
-
-################################################################################ 
-# FORMAT title and article text strings
-################################################################################ 
-title <- as.character(pubmed_data$Title)
-author <- as.character(pubmed_data$Author)
-year <- as.character(pubmed_data$Year)
-abstract <- as.character(pubmed_data$Abstract)
+                          'Journal'=Title(bar),
+                          'Abstract'=AbstractText(bar),
+                          stringsAsFactors = FALSE)
 
 ################################################################################
 # CREATE pre-formatted R markdown (.Rmd) file
 ################################################################################
 # can not render/knit to pdf because of greek alphabet letters in text
 
-# setup file file path
+# setup file path
 folder <- './abstracts/'
 ifelse(!dir.exists(folder), dir.create(folder), FALSE)
 # setup file names
@@ -87,15 +79,17 @@ cat(c("---",
     fill = TRUE,
     sep = "\n")
 
-# paste header formatting before title
-title <- paste('####', title)
-
-# write combined title and abstract text to our file
-for (i in seq_along(nrow(pubmed_data))) {
-      cat(c(title[i],
-            year[i],
-            author[i],
-            abstract[i],
+# write source text to .Rmd file
+for (i in 1:nrow(pubmed_data)) {
+      cat(c(paste('####', pubmed_data$Title[i]),
+            '\n',
+            pubmed_data$Year[i],
+            '\n',
+            pubmed_data$Journal[i],
+            '\n',
+            pubmed_data$Author[i],
+            '\n',
+            pubmed_data$Abstract[i],
             '\n'),
           file = path,
           append = TRUE,
@@ -108,4 +102,4 @@ for (i in seq_along(nrow(pubmed_data))) {
 ################################################################################
 render(input = path, output_dir = folder)
 # clean up workspace (remove source .Rmd file)
-# file.remove(path)
+file.remove(path)
