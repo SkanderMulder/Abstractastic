@@ -5,7 +5,7 @@ A tool to mine and search abstracts from Pubmed/Medline
 link to app: https://mulderst.shinyapps.io/Abstractastic/
 
 The plan:
-- start up
+- start up <-- current phase
 - sell out
 - cash in
 - bro down
