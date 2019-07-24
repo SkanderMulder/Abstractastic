@@ -8,6 +8,7 @@
 library(rmarkdown)
 library(RISmed)
 library(SnowballC)
+library(tidyverse)
 
 ################################################################################
 # QUERY and actual data download
@@ -51,6 +52,8 @@ Country(bar)
 pubmed_data <- data.frame('Title'=ArticleTitle(bar),
                           'Author'=author,
                           'Year'=YearPubmed(bar),
+                          'PMID'=PMID(bar),
+                          'doi'=ELocationID(bar),
                           'Journal'=Title(bar),
                           'Abstract'=AbstractText(bar),
                           stringsAsFactors = FALSE)
@@ -83,9 +86,14 @@ cat(c("---",
 for (i in 1:nrow(pubmed_data)) {
       cat(c(paste('####', pubmed_data$Title[i]),
             '\n',
-            pubmed_data$Year[i],
+            paste(pubmed_data$Year[i], pubmed_data$Journal[i]),
             '\n',
-            pubmed_data$Journal[i],
+            paste0('https://www.ncbi.nlm.nih.gov/pubmed/', pubmed_data$PMID[i]),
+            '\n',
+            if (str_detect(string = pubmed_data$doi[i],
+                           pattern = regex(pattern = '^10'))) {
+                  paste0('https://doi.org/', pubmed_data$doi[i])
+            } else return('\n'),
             '\n',
             pubmed_data$Author[i],
             '\n',
