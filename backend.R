@@ -11,21 +11,19 @@ library(SnowballC)
 library(tidyverse)
 
 ################################################################################
-# QUERY and actual data download
+# QUERY and actual data download from PubMed
 ################################################################################
 # this is the text string with name of author as passed to the PubMed search bar
-query <- 'Henning RH[Author]'
-# create object of class 'EUtilsSummary'
-foo <- EUtilsSummary(query)
-# create the main object of class 'Medline' which contains probably all mined data
+search.author <- 'Henning RH[Author]'
+# create the main object of class 'Medline' which contains all mined data
 # and has most methods from package RISmed applicable
-bar <- EUtilsGet(foo)
+pubmed <- EUtilsGet(EUtilsSummary(search.author))
 
 ################################################################################
 # some HOUSEKEEPING
 ################################################################################
 # Format the author character strings
-author <- Author(bar)
+author <- Author(pubmed)
 
 # it would be great to simplify this for loop perhaps with lapply
 for(i in seq_along(author)) {
@@ -38,25 +36,27 @@ author <- unlist(author)
 # EXTRACT interesting data
 ################################################################################
 # JOURNALS
-# journal information can be extracted with functions
+# journal information can be extracted with RISmed functions
 # MedlineTA, Title and ISOAbbreviation (probs best for later snatching IF's)
-journals <- ISOAbbreviation(bar)
+journals <- ISOAbbreviation(pubmed)
+# journal impact factors may be mined with Clarivate Analytics API for InCites,
+# although this may require an academic subscription
 
-# Country (!)
-Country(bar)
+# journal country (!)
+Country(pubmed)
 
 # the Volume component (and RISmed function) can be used to hint at the age
 # of the journal (and impact?)
 
-# create umm some variable, * come back to this
-pubmed_data <- data.frame('Title'=ArticleTitle(bar),
-                          'Author'=author,
-                          'Year'=YearPubmed(bar),
-                          'PMID'=PMID(bar),
-                          'doi'=ELocationID(bar),
-                          'Journal'=Title(bar),
-                          'Abstract'=AbstractText(bar),
-                          stringsAsFactors = FALSE)
+# extract sought information to create a subset of core dataset
+pubmed.subset <- data.frame('Title'=ArticleTitle(pubmed),
+                            'Author'=author,
+                            'Year'=YearPubmed(pubmed),
+                            'PMID'=PMID(pubmed),
+                            'doi'=ELocationID(pubmed),
+                            'Journal'=Title(pubmed),
+                            'Abstract'=AbstractText(pubmed),
+                            stringsAsFactors = FALSE)
 
 ################################################################################
 # CREATE pre-formatted R markdown (.Rmd) file
@@ -67,7 +67,7 @@ pubmed_data <- data.frame('Title'=ArticleTitle(bar),
 folder <- './abstracts/'
 ifelse(!dir.exists(folder), dir.create(folder), FALSE)
 # setup file names
-file <- paste0(query, '.Rmd')
+file <- paste0(search.author, '.Rmd')
 path <- paste0(folder, file)
 
 # set up YAML header
@@ -83,21 +83,21 @@ cat(c("---",
     sep = "\n")
 
 # write source text to .Rmd file
-for (i in 1:nrow(pubmed_data)) {
-      cat(c(paste('####', pubmed_data$Title[i]),
+for (i in c(1:nrow(pubmed.subset))) {
+      cat(c(paste('####', pubmed.subset$Title[i]),
             '\n',
-            paste(pubmed_data$Year[i], pubmed_data$Journal[i]),
+            paste(pubmed.subset$Year[i], pubmed.subset$Journal[i]),
             '\n',
-            paste0('https://www.ncbi.nlm.nih.gov/pubmed/', pubmed_data$PMID[i]),
+            paste0('https://www.ncbi.nlm.nih.gov/pubmed/', pubmed.subset$PMID[i]),
             '\n',
-            if (str_detect(string = pubmed_data$doi[i],
-                           pattern = regex(pattern = '^10'))) {
-                  paste0('https://doi.org/', pubmed_data$doi[i])
-            } else return('\n'),
+            ifelse(str_detect(string = pubmed.subset$doi[i],
+                              pattern = regex(pattern = '^10')),
+                   paste0('https://doi.org/', pubmed.subset$doi[i]),
+                   '\n'),
             '\n',
-            pubmed_data$Author[i],
+            pubmed.subset$Author[i],
             '\n',
-            pubmed_data$Abstract[i],
+            pubmed.subset$Abstract[i],
             '\n'),
           file = path,
           append = TRUE,
