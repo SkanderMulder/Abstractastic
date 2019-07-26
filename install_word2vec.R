@@ -1,0 +1,5 @@
+library(devtools)
+install.packages("pkgload")
+library(pkgload)
+install_github("bmschmidt/wordVectors")
+library(wordVectors)

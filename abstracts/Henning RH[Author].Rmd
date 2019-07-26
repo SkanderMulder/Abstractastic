@@ -4741,3 +4741,26 @@ Unexpectedly, it was observed that the P2-purinoceptor antagonist, suramin (10 m
 
 
 
+#### Suramin reverses non-depolarizing neuromuscular blockade in rat diaphragm.
+
+
+
+1992 European journal of pharmacology
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/1326440
+
+
+NA
+
+
+
+Henning, Nelemans, Scaf, Van Eekeren, Agoston, Den Hertog
+
+
+
+Unexpectedly, it was observed that the P2-purinoceptor antagonist, suramin (10 microM to 1 mM), reversed the muscle paralysis caused by structurally unrelated non-depolarizing relaxants. Suramin competitively reversed the blocking action of pancuronium. Both the pre- and postsynaptic blockade of nicotinic receptors by pancuronium was counteracted, as shown by the action of suramin, using train-of-four stimulation. Suramin did not affect the paralysis caused by the depolarizing relaxant, succinylcholine. The reversal action of suramin was not due to an increase in the acetylcholine concentration in the synaptic cleft, since neither the contraction of preparations partially paralysed by diminished acetylcholine release in the presence of low Ca2+ or high Mg2+ nor acetylcholinesterase activity were affected. Suramin did not affect the reduction in twitch tension caused by adenosine and potentiated the ATP-induced reduction in twitch, indicating that ATP-sensitive receptors are not involved in the reversal action of suramin. Consequently, these results suggest that the action of suramin is due to binding with a site on the acetylcholine receptor also occupied by non-depolarizing relaxants, but different from the site occupied by succinylcholine.
+
+
+
