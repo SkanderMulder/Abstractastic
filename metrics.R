@@ -12,17 +12,19 @@ par(las=2)
 ################################################################################
 # N PUBLICATIONS (total, per year)
 ################################################################################ 
-# count 
-ppy <- table(pubmed_data$Year)
+# 
+ppy <- table(pubmed.data$Year)
 
-# plot number of publications per year
-barplot(ppy,
-        horiz = TRUE,
-        cex.names = 0.8,
+# total number of publications
+length(pubmed.data$Year)
+
+# plot number of publications per year    <-- make in ggplot
+barplot(height = ppy$Freq, width = ppy$Var1,
+        horiz = TRUE, cex.names = 0.8,
         xlab = 'number of publications')
-abline(v = mean(ppy), col = 'red', lwd = 3) # mark mean with vertical line
-text(labels = c('mean', round(mean(ppy), 1)),
-     x = mean(ppy),
+abline(v = mean(ppy$Freq), col = 'red', lwd = 3) # mark mean with vertical line
+text(labels = c('mean', round(mean(ppy$Freq), 1)),
+     x = mean(ppy$Freq),
      y = 2,
      pos = c(3, 4),
      # adj = 34,
@@ -56,3 +58,5 @@ barplot(coauthors[2:10],
 ################################################################################
 # IMPACT FACTOR (total, per year)
 ################################################################################
+# journal impact factors may be mined with Clarivate Analytics API for InCites,
+# although this may require an academic subscription

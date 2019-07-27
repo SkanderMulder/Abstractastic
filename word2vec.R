@@ -6,6 +6,7 @@
 library(devtools)
 library(httr)
 library(tm)
+library(wordVectors)
 
 set_config(
   use_proxy(url="proxy.bloomberg.com", port=80)
@@ -19,7 +20,6 @@ set_config( config( ssl_verifypeer = 0L ) )
 
 # See tutorial: https://github.com/bmschmidt/wordVectors/blob/master/vignettes/introduction.Rmd
 install_github("bmschmidt/wordVectors")
-library(wordVectors)
 
 #
 # Helper function to train a word2vec model from file.txt or load an existing one from file.bin.
