@@ -15,7 +15,7 @@ library(tidyverse)
 ################################################################################
 # this is the text string with name of author as passed to the PubMed search bar
 # search.author <- 'Henning RH[Author]'
-search.author <- '(perivascular adipose tissue) OR PVAT'
+search.author <- 'vascular adipose tissue'
 # create the main object of class 'Medline' which contains all mined data
 # and has most methods from package RISmed applicable
 pubmed <- EUtilsGet(EUtilsSummary(search.author))

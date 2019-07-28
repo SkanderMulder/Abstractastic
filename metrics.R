@@ -2,6 +2,8 @@
 # LOAD libraries
 ################################################################################ 
 library(tidyverse)
+library(rvest)
+library(curl)
 
 ################################################################################
 # graphics SETTINGS
@@ -58,5 +60,38 @@ barplot(coauthors[2:10],
 ################################################################################
 # IMPACT FACTOR (total, per year)
 ################################################################################
-# journal impact factors may be mined with Clarivate Analytics API for InCites,
+# - journal impact factors may be mined with Clarivate Analytics API for InCites,
 # although this may require an academic subscription
+# for now, we use Wikipedia to obtain the impact factor, which of course
+#is limited
+wiki.url <- read_html('https://en.wikipedia.org/wiki/Journal_of_Pharmacology_and_Experimental_Therapeutics')
+
+# create new column in pubmed data with journal names where whitespaces are
+# replaced by underscore, so that the strings can be passed to wikipedia url
+pubmed.subset$Journal._ <- str_replace_all(pubmed.subset$Journal, pattern = '\\s', replacement = '_')
+
+# this code works when used on a single page
+# but in a for loop gives Error 400: Bad request
+for (i in 1:nrow(pubmed.subset)) {
+      # create wiki url from journal string and store as html
+      wiki.url <- paste0('https://en.wikipedia.org/wiki/',
+                          pubmed.subset$Journal._[i])
+      content <- read_html(curl(wiki.url),
+                           handle = curl::new_handle("useragent" = "Mozilla/51.0.1"))
+      # download.file(wiki.url, destfile = 'scrapedpage.html', quiet = TRUE)
+      # content <- read_html('scrapedpage.html')
+      
+      # scrape a wikipedia 'div table' panel using rvest
+      wikipage <- content %>%
+            html_node('div table') %>%
+            html_text()
+      # locate the coordinates of impact factor in the downloaded string
+      impact.coords <- str_locate(wikipage,
+                                  pattern = regex(pattern = 'Impact factor......'))
+      
+      pubmed.subset$Impact <- wikipage %>%
+            str_sub(start = impact.coords[2]+1,
+                    end = impact.coords[2]+5) %>%
+            as.numeric()
+      
+}

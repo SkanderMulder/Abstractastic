@@ -33,6 +33,8 @@ write(corpus.export, file = './corpus.txt')
 
 ################################################################################
 # word2vec MODEL
+# using Python, it is possible to load Google's pre-trained word2vec model,
+# it is 1.5GB and trained on 3 mil words x 300 features
 ################################################################################
 # train
 model <- train_word2vec('corpus.txt','corpus_model.bin',
@@ -40,8 +42,8 @@ model <- train_word2vec('corpus.txt','corpus_model.bin',
                         iter=8, negative_samples=0, force = TRUE)
 
 # similarity search
-search.word1 <- 'pvat'
-search.word2 <- 'atherosclerosis'
+search.word1 <- 'atherosclerosis'
+search.word2 <- 'pvat'
 model %>% closest_to(search.word1)
 
 ## plot similar terms to two searched words
@@ -58,6 +60,7 @@ cosine <- cosine[
 
 plot(cosine, type = 'n')
 text(cosine, labels = rownames(cosine))
+cosine
 
 ################################################################################
 # WORDCLOUD OUTPUT
