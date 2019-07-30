@@ -28,8 +28,8 @@ corpus <- pubmed.subset$Abstract %>%
       Corpus() %>%
       # clean corpus
       tm_map(tolower) %>%
-      tm_map(removePunctuation) %>%
-      tm_map(removeNumbers) %>%
+      tm_map(removePunctuation) %>% # caution: protein names contain '- or /'
+      tm_map(removeNumbers) %>% # tricky: protein names or chemicals
       tm_map(removeWords, stopwords('english')) %>%
       tm_map(stripWhitespace)
 
@@ -40,6 +40,10 @@ corpus.export <- lapply(corpus, as.character) %>%
 
 # write corpus to file
 write(corpus.export, file = './corpus.txt')
+
+# compute term-document matrix which can be used for complex tasks as clustering
+corpus.tdm <- TermDocumentMatrix(corpus)
+inspect(word.freq)
 
 ################################################################################
 # word2vec MODEL
@@ -52,8 +56,8 @@ model <- train_word2vec('corpus.txt','corpus_model.bin',
                         iter=8, negative_samples=0, force = TRUE)
 
 # similarity search
-search.word1 <- 'sam'
-search.word2 <- 'cse'
+search.word1 <- 'hibernation'
+search.word2 <- 'cbs'
 model %>% closest_to(search.word1)
 
 ## plot similar terms to two searched words
@@ -75,23 +79,16 @@ cosine
 ################################################################################
 # WORDCLOUD OUTPUT
 ################################################################################
-# compute term-document matrix which can be used for complex tasks as clustering
-# TermDocumentMatrix(control = list(stemDocument = TRUE,
-#                                   removePunctuation = TRUE,
-#                                   stripWhitespace = TRUE,
-#                                   stopwords = c(stopwords('english')),
-#                                   removeNumbers = TRUE, tolower = TRUE))
-# 
-# # plot wordcloud
-# folder <- './graphics/'
-# ifelse(!dir.exists(folder), dir.create(folder), FALSE)
-# for(i in seq_along(qux_df)) {
-#       par(mar = c(1, 1, 1, 1))
-#       png(filename = paste0(folder, query, '.png'))
-#       wordcloud(qux_df[[i]][['word']], qux_df[[i]][['freq']],
-#                 random.order = FALSE,
-#                 max.words = 200,
-#                 rot.per = 0.35,
-#                 colors = brewer.pal(8, 'Dark2'))
-#       dev.off()
-# }
+# setup folder
+folder <- './graphics/'
+ifelse(!dir.exists(folder), dir.create(folder), FALSE)
+
+# set margins
+par(mar = c(1, 1, 1, 1))
+
+# create wordcloud
+wordcloud(words = corpus,
+          random.order = FALSE,
+          max.words = 300,
+          rot.per = 0.35,
+          random.color = TRUE)
