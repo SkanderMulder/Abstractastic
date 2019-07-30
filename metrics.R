@@ -3,7 +3,6 @@
 ################################################################################ 
 library(tidyverse)
 library(rvest)
-library(curl)
 
 ################################################################################
 # graphics SETTINGS
@@ -15,31 +14,31 @@ par(las=2)
 # N PUBLICATIONS (total, per year)
 ################################################################################ 
 # 
-ppy <- table(pubmed.data$Year)
+ppy <- table(pubmed.subset$Year)
 
 # total number of publications
-length(pubmed.data$Year)
+length(pubmed.subset$Year)
 
 # plot number of publications per year    <-- make in ggplot
-barplot(height = ppy$Freq, width = ppy$Var1,
-        horiz = TRUE, cex.names = 0.8,
-        xlab = 'number of publications')
-abline(v = mean(ppy$Freq), col = 'red', lwd = 3) # mark mean with vertical line
-text(labels = c('mean', round(mean(ppy$Freq), 1)),
-     x = mean(ppy$Freq),
-     y = 2,
-     pos = c(3, 4),
-     # adj = 34,
-     col = 'red')
-
-ppy <- data.frame(ppy)
-ggplot(data = ppy) + geom_bar(aes(group = Var1, x = Freq))
+# barplot(height = ppy$Freq, width = ppy$Var1,
+#         horiz = TRUE, cex.names = 0.8,
+#         xlab = 'number of publications')
+# abline(v = mean(ppy$Freq), col = 'red', lwd = 3) # mark mean with vertical line
+# text(labels = c('mean', round(mean(ppy$Freq), 1)),
+#      x = mean(ppy$Freq),
+#      y = 2,
+#      pos = c(3, 4),
+#      # adj = 34,
+#      col = 'red')
+# 
+# ppy <- data.frame(ppy)
+# ggplot(data = ppy) + geom_bar(aes(group = Var1, x = Freq))
 
 ################################################################################
 # most frequent co-AUTHORS
 ################################################################################
 # create variable with author names
-author <- Author(bar)
+author <- Author(pubmed)
 
 # extract author last names
 for(i in seq_along(author)) {
@@ -64,7 +63,18 @@ barplot(coauthors[2:10],
 # although this may require an academic subscription
 # for now, we use Wikipedia to obtain the impact factor, which of course
 #is limited
-wiki.url <- read_html('https://en.wikipedia.org/wiki/Journal_of_Pharmacology_and_Experimental_Therapeutics')
+# wiki.url <- read_html('https://en.wikipedia.org/wiki/Proceedings_of_the_National_Academy_of_Sciences_of_the_United_States_of_America')
+# wikipage <- wiki.url %>%
+#       html_node('div table') %>%
+#       html_text()
+# 
+# impact.coords <- str_locate(wikipage,
+#                             pattern = regex(pattern = 'Impact factor......'))
+# 
+# impact <- wikipage %>%
+#       str_sub(start = impact.coords[2]+1,
+#               end = impact.coords[2]+4) %>%
+#       as.numeric()
 
 # create new column in pubmed data with journal names where whitespaces are
 # replaced by underscore, so that the strings can be passed to wikipedia url
@@ -76,11 +86,9 @@ for (i in 1:nrow(pubmed.subset)) {
       # create wiki url from journal string and store as html
       wiki.url <- paste0('https://en.wikipedia.org/wiki/',
                           pubmed.subset$Journal._[i])
-      content <- read_html(curl(wiki.url),
-                           handle = curl::new_handle("useragent" = "Mozilla/51.0.1"))
+      content <- read_html(wiki.url)
       # download.file(wiki.url, destfile = 'scrapedpage.html', quiet = TRUE)
       # content <- read_html('scrapedpage.html')
-      
       # scrape a wikipedia 'div table' panel using rvest
       wikipage <- content %>%
             html_node('div table') %>%
@@ -88,10 +96,10 @@ for (i in 1:nrow(pubmed.subset)) {
       # locate the coordinates of impact factor in the downloaded string
       impact.coords <- str_locate(wikipage,
                                   pattern = regex(pattern = 'Impact factor......'))
-      
       pubmed.subset$Impact <- wikipage %>%
             str_sub(start = impact.coords[2]+1,
-                    end = impact.coords[2]+5) %>%
+                    end = impact.coords[2]+4) %>%
             as.numeric()
-      
+      Sys.sleep(1)
 }
+

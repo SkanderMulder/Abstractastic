@@ -6,6 +6,16 @@ library(RColorBrewer)
 library(tm)
 library(wordVectors)
 library(magrittr)
+library(wordVectors)
+
+################################################################################
+# (uncomment code to) INSTALL word2vec
+################################################################################ 
+# install.packages("devtools")
+# install.packages("pkgload")
+# library(devtools)
+# library(pkgload)
+# install_github("bmschmidt/wordVectors")
 
 ################################################################################
 # create text CORPUS and clean text
@@ -42,8 +52,8 @@ model <- train_word2vec('corpus.txt','corpus_model.bin',
                         iter=8, negative_samples=0, force = TRUE)
 
 # similarity search
-search.word1 <- 'atherosclerosis'
-search.word2 <- 'pvat'
+search.word1 <- 'sam'
+search.word2 <- 'cse'
 model %>% closest_to(search.word1)
 
 ## plot similar terms to two searched words
