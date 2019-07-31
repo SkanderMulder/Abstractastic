@@ -13,26 +13,20 @@ par(las=2)
 ################################################################################
 # N PUBLICATIONS (total, per year)
 ################################################################################ 
-# 
 ppy <- table(pubmed.subset$Year)
+ppy.df <- data.frame(ppy)
 
 # total number of publications
 length(pubmed.subset$Year)
 
-# plot number of publications per year    <-- make in ggplot
-# barplot(height = ppy$Freq, width = ppy$Var1,
-#         horiz = TRUE, cex.names = 0.8,
-#         xlab = 'number of publications')
-# abline(v = mean(ppy$Freq), col = 'red', lwd = 3) # mark mean with vertical line
-# text(labels = c('mean', round(mean(ppy$Freq), 1)),
-#      x = mean(ppy$Freq),
-#      y = 2,
-#      pos = c(3, 4),
-#      # adj = 34,
-#      col = 'red')
-# 
-# ppy <- data.frame(ppy)
-# ggplot(data = ppy) + geom_bar(aes(group = Var1, x = Freq))
+# plot number of publications per year
+ggplot(data = ppy.df, aes(x = Var1, y = Freq)) +
+      geom_col(aes(fill = Freq)) +
+      guides(fill = 'none') +
+      geom_hline(yintercept = mean(ppy.df$Freq)) +
+      annotate(geom = 'text', label = 'mean',
+               x = 1, y = mean(ppy.df$Freq)+0.5) +
+      labs(title = 'Publications per year', y = 'N publications', x = '')
 
 ################################################################################
 # most frequent co-AUTHORS
