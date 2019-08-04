@@ -10,11 +10,16 @@ library(RISmed)
 library(SnowballC)
 library(tidyverse)
 
+# setup folders
+folder <- './temp/'
+ifelse(!dir.exists(folder), dir.create(folder), FALSE)
+
 ################################################################################
 # QUERY and actual data download from PubMed
 ################################################################################
 # this is the text string with name of author as passed to the PubMed search bar
 query <- 'Henning RH[Author]'
+# query <- 'Majtan T[Author]'
 # query <- 'vascular adipose tissue'
 # create the main object of class 'Medline' which contains all mined data
 # and has most methods from package RISmed applicable
