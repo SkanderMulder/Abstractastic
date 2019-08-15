@@ -1,4 +1,14 @@
-################################################################################
+######################################################################################
+# INSTALL word2vec
+################################################################################ 
+if (!require(wordVectors)) {
+      if (!(require(devtools))) {
+            install.packages("devtools")
+      }
+      devtools::install_github("bmschmidt/wordVectors")
+}
+
+##########################################################################
 # LOAD libraries
 ################################################################################ 
 library(wordcloud)
@@ -8,15 +18,6 @@ library(wordVectors)
 library(tsne)
 library(magrittr)
 library(ggrepel)
-
-################################################################################
-# (uncomment code to) INSTALL word2vec
-################################################################################ 
-# install.packages("devtools")
-# install.packages("pkgload")
-# library(devtools)
-# library(pkgload)
-# install_github("bmschmidt/wordVectors")
 
 ################################################################################
 # create text CORPUS and clean text
@@ -59,7 +60,7 @@ model <- train_word2vec('temp/corpus_phrased.txt','temp/corpus_model.bin',
                         vectors=200, threads=2, window=10,
                         iter=4, negative_samples=10, force = TRUE)
 
-# similarity search: make this so that use inputs two searc words,
+# SIMILARITY SEARCH: make this so that use inputs two searc words,
 # or the default will be the two most frequent words
 # search.word1 <- 'hibernation'
 # search.word2 <- 'cbs'
@@ -68,18 +69,26 @@ search.word2 <- rownames(model)[3]
 model %>% closest_to(search.word1)
 model %>% closest_to(search.word2)
 
+# find words that are 'similar' to the ~ combination of ... AND ...
+model %>% closest_to(~'macrophage'+'anticontractile')
+# find words that are 'similar' to the ~ combination of ... BUT NOT ...
+model %>% closest_to(~'macrophage'-'anticontractile')
+# find analogies
+model %>% closest_to(~'noradrenaline'-'anticontractile'+'macrophage')
+
 ## plot similar terms to two searched words
 similarity <- model[[c(search.word1, search.word2), average=F]]
 
 # compute cosine similarities restricted to the most common words in the set
 cosine <- model[1:200,] %>% cosineSimilarity(similarity)
 
-# Filter to the top 20 terms.
+# Filter to the top terms.
 cosine <- cosine[
-      rank(-cosine[,1])<20 |
-            rank(-cosine[,2])<20,
+      rank(-cosine[,1])<10 |
+            rank(-cosine[,2])<10,
       ] %>%
       as.data.frame()
+
 colnames(cosine) <- c('word1', 'word2')
 cosine$word <- rownames(cosine)
 

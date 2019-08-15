@@ -29,7 +29,7 @@ ggplot(data = ppy.df, aes(x = Var1, y = Freq)) +
                x = 1.5, y = mean(ppy.df$Freq)*1.1) +
       annotate(geom = 'text',
                label = paste('Total publications:', pubs.tot),
-               x = max(as.numeric(ppy.df$Var1))*0.9,
+               x = max(as.numeric(ppy.df$Var1))*0.85,
                y = max(ppy.df$Freq)) +
       labs(title = 'Publications per year', y = 'N publications', x = '') +
       theme(axis.text.x = element_text(angle = 90, hjust = 1))
