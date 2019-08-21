@@ -1,4 +1,4 @@
-######################################################################################
+################################################################################
 # INSTALL word2vec
 ################################################################################ 
 if (!require(wordVectors)) {
@@ -8,16 +8,19 @@ if (!require(wordVectors)) {
       devtools::install_github("bmschmidt/wordVectors")
 }
 
-##########################################################################
+################################################################################
 # LOAD libraries
 ################################################################################ 
-library(wordcloud)
-library(RColorBrewer)
-library(tm)
-library(wordVectors)
-library(tsne)
-library(magrittr)
-library(ggrepel)
+if (!require(pacman)) {
+      install.packages('pacman')
+}
+p_load(c('wordcloud',
+         'RColorBrewer',
+         'tm',
+         'wordVectors',
+         'tsne',
+         'magrittr',
+         'ggrepel'))
 
 ################################################################################
 # create text CORPUS and clean text
@@ -30,7 +33,7 @@ corpus <- pubmed.subset$Abstract %>%
       Corpus() %>%
       # clean corpus
       tm_map(tolower) %>%
-      tm_map(removePunctuation) %>% # caution: protein names contain '- or /'
+      tm_map(removePunctuation) %>% # caution: protein names contain '-' or /'
       tm_map(removeNumbers) %>% # tricky: protein names or chemicals
       tm_map(removeWords, stopwords('english')) %>%
       tm_map(stripWhitespace)
@@ -48,7 +51,7 @@ corpus.tdm <- TermDocumentMatrix(corpus)
 corpus.dtm <- DocumentTermMatrix(corpus)
 
 ################################################################################
-# word2vec MODEL
+# word2vec MODEL | build
 # using Python, it is possible to load Google's pre-trained word2vec model,
 # it is 1.5GB and trained on 3 mil words x 300 features
 ################################################################################
@@ -60,17 +63,24 @@ model <- train_word2vec('temp/corpus_phrased.txt','temp/corpus_model.bin',
                         vectors=200, threads=2, window=10,
                         iter=4, negative_samples=10, force = TRUE)
 
-# SIMILARITY SEARCH: make this so that use inputs two searc words,
+################################################################################
+# word2vec MODEL | similarity search
+################################################################################
+# the user inputs two search words,
 # or the default will be the two most frequent words
+
 # search.word1 <- 'hibernation'
 # search.word2 <- 'cbs'
+search.word1 <- 'macrophage'
+search.word2 <- 'constriction'
 search.word1 <- rownames(model)[2]
 search.word2 <- rownames(model)[3]
 model %>% closest_to(search.word1)
 model %>% closest_to(search.word2)
 
 # find words that are 'similar' to the ~ combination of ... AND ...
-model %>% closest_to(~'macrophage'+'anticontractile')
+model %>% closest_to(~'macrophage'+'anticontractile',
+                     fancy_names = TRUE)
 # find words that are 'similar' to the ~ combination of ... BUT NOT ...
 model %>% closest_to(~'macrophage'-'anticontractile')
 # find analogies
@@ -79,14 +89,13 @@ model %>% closest_to(~'noradrenaline'-'anticontractile'+'macrophage')
 ## plot similar terms to two searched words
 similarity <- model[[c(search.word1, search.word2), average=F]]
 
+# cosineSimilarity is more powerful, because it can compare two matrices to each other
+# closest_to can only take a vector or vectorlike object as its second argument
 # compute cosine similarities restricted to the most common words in the set
 cosine <- model[1:200,] %>% cosineSimilarity(similarity)
 
 # Filter to the top terms.
-cosine <- cosine[
-      rank(-cosine[,1])<10 |
-            rank(-cosine[,2])<10,
-      ] %>%
+cosine <- cosine[rank(-cosine[,1])<10 | rank(-cosine[,2])<10,] %>%
       as.data.frame()
 
 colnames(cosine) <- c('word1', 'word2')

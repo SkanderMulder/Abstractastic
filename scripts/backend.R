@@ -5,10 +5,13 @@
 # year, abstract and outputs a wordcloud and an html with formatted mined text.
 ################################################################################
 # LOAD libraries
-library(rmarkdown)
-library(RISmed)
-library(SnowballC)
-library(tidyverse)
+if (!require(pacman)) {
+      install.packages('pacman')
+}
+p_load(char = c('rmarkdown',
+                'RISmed',
+                'SnowballC',
+                'tidyverse'))
 
 # setup folders
 folder <- './temp/'
