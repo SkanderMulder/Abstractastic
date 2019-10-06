@@ -18,6 +18,8 @@ server <- function(input, output) {
             output$value <- renderText({ input$caption })
       }
       source('new_testing.r')
+      datadata <- newData()
+      
       NewData <- reactive({a= CreateDFR(input$caption)})
       output$mytable  <- renderDataTable({ 
             tooput=NewData()
