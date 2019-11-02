@@ -4,7 +4,7 @@ library(pacman);p_load('rvest','hellno',stringr,data.table, XML)
 getAbstact=function(URL,checkSave=FALSE)
 {
 print('getAbstact')
-#defineST<-a<-str_extract(pattern='[0-9]+',url)
+# defineST<-a<-str_extract(pattern='[0-9]+',url)
 # if(checkSave)
 # {
 # if( length(grep(defineST, list.files('../tmpfiles3/')))>0  )  #test if found
@@ -14,7 +14,7 @@ print('getAbstact')
 # return(Rval)
 # }}
 
-##parsing data from pubmedsite
+## parsing data from pubmedsite
 p_load('rvest')
 input=URL; print(URL);flush.console() 
  html_nodess=tryCatch({   read_html(input)  }, error = function(...) return(NA))
@@ -23,7 +23,7 @@ if(  !exists('html_nodess') )return(NA) ##ERRECHECK
   html_nodes( ".rprtid , .auths , dd , .abstr p , #maincontent h1") %>%
   html_text()  
 
-#print(toString(rval))
+# print(toString(rval))
 
 #output of object
 if(length(rval) == 0) return (NULL)
@@ -53,7 +53,7 @@ formatAbstract=function(x)
 {
 x<-unlist(x) #no list
 x<-x[which(!grepl('Indexed for MEDLINE',x))] #no filler
-z<-(min(  which(sapply(x, function(b)grepl('PMID:',b))) )) #legacy
+z<-(min(which(sapply(x, function(b)grepl('PMID:',b))) )) #legacy
 if(z<2)z<-2 #legacy
 Nchars=unlist(lapply(x, nchar))
 
