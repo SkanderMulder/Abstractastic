@@ -18,7 +18,7 @@ for (filename in filenames) {
 }
 
 # daily update
-url.update <- 'ftp://ftp.ncbi.nlm.nih.gov/pubmed/updatefiles'
+url.update <- 'ftp://ftp.ncbi.nlm.nih.gov/pubmed/updatefiles/'
 
 filenames <- getURL(url.update, ftp.use.epsv = FALSE, dirlistonly = TRUE) %>%
       strsplit('\r\n') %>%
