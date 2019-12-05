@@ -75,6 +75,6 @@ ret<-list(     Title = x[1],
 return(ret)  } 
 
 
-#calling fucntions
+#calling funcntions
 rval<-'DKD'  %>%  (function(x,n=3)(getLink(x,n)))  %>% lapply(. ,getAbstact)   %>% lapply(. ,formatAbstract) 
 dfr=do.call(rbind,lapply( rval,retabstr))

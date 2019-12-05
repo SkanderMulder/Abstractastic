@@ -1,0 +1,1817 @@
+---
+output:
+      html_document:
+            self_contained: no
+---
+
+#### L-cysteine/hydrogen sulfide pathway induces cGMP-dependent relaxation of corpus cavernosum and penile arteries from patients with erectile dysfunction and improves arterial vasodilation induced by PDE5 inhibition.
+
+
+
+2019 European journal of pharmacology
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/31542487
+
+
+
+
+
+
+
+La Fuente, Fernández, Pepe-Cardoso, Martínez-Salamanca, Louro, Angulo
+
+
+
+
+
+#### L-cysteine/cystathionine-ß-synthase-induced relaxation in mouse aorta involves a L-serine/sphingosine-1-phosphate/NO pathway.
+
+
+
+2019 British journal of pharmacology
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/30835815
+
+
+https://doi.org/10.1111/bph.14654
+
+
+
+Mitidieri, Gurgone, Caiazzo, Tramontano, Cicala, Sorrentino, d'Emmanuele di Villa Bianca
+
+
+
+EXPERIMENTAL APPROACH: The presence of CBS in mouse vascular endothelium was assessed by immunohistochemistry and immunofluorescence. The relaxant activity of L-serine (0.1-300 µM) and L-cysteine (0.1-300 µM) was estimated on mouse aorta rings, with or without endothelium. A pharmacological modulation study evaluated NO and sphingosine-1-phosphate (S1P) involvement. Levels of NO and S1P were also measured following incubation of aorta tissue with either L-serine (1, 10, and 100 µM) or L-cysteine (10, 100 µM, and 1 mM).KEY RESULTS: L-serine relaxed aorta rings in an endothelium-dependent manner. The vascular effect was reduced by L-NG-nitro-arginine methyl ester and wortmaninn. A similar pattern was obtained with L-cysteine. The S1P1 receptor antagonist (W146) or the SPT inhibitor (myriocin) reduced either L-serine or L-cysteine relaxant effect. L-serine or L-cysteine incubation increased NO and S1P levels in mouse aorta.CONCLUSIONS AND IMPLICATIONS: L-serine, a by-product formed within the transsulfuration pathway starting from L-cysteine via CBS, contributes to the vasodilator action of L-cysteine. The L-serine effect involves both NO and S1P. This mechanism could be involved in the marked dysregulation of vascular tone in hyperhomocysteinemic patients (CBS deficiency) and may represent a feasible therapeutic target.
+
+
+
+#### Ovine uterine artery hydrogen sulfide biosynthesis in vivo: effects of ovarian cycle and pregnancy†.
+
+
+2019 Biology of reproduction
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/30772913
+
+
+https://doi.org/10.1093/biolre/ioz027
+
+
+Lechuga, Qi, Magness, Chen
+
+
+
+Uterine vasodilation dramatically increases during the follicular phase of the estrous cycle and pregnancy, which are estrogen-dominant physiological states. Uterine vasodilation is believed to be mainly controlled by local uterine artery (UA) production of vasodilators and angiogenic factors. The extremely potent vasodilator and proangiogenic hydrogen sulfide (H2S) is synthesized via metabolizing L-cysteine by cystathionine ß-synthase (CBS) and cystathionine <U+03B3>-lyase (CTH). This study was designed to determine if UA H2S production increases with augmented expression and/or activity of CBS and/or CTH during the ovarian cycle and pregnancy in sheep. Uterine arteries from intact nonpregnant (NP) luteal and follicular phase and late (130-135 days, term ˜ 145 days) pregnant (P) ewes were collected; endothelium-enriched proteins (UAendo) and endothelium-denuded smooth muscle (UAvsm) were mechanically prepared for accessing CBS and CTH proteins by immunoblotting; their cellular localization was determined by semi-quantitative immunofluorescence microscopy. H2S production was measured by the methylene blue assay. Immunoblotting revealed that CBS but not CTH protein was greater in P &gt; &gt; &gt; NP follicular &gt; luteal UAendo and UAvsm (P &lt; 0.001). H2S production was greater in P &gt; &gt; &gt; NP UAendo and UAvsm (P &lt; 0.01). Pregnancy-augmented UAendo and UAvsm H2S production was inhibited by the specific CBS but not CTH inhibitor. CBS and CTH proteins were localized to both endothelium and smooth muscle; however, only CBS protein was significantly greater in P vs NP UA endothelium and smooth muscle. Thus, ovine UA H2S production is significantly augmented via selectively upregulating endothelium and smooth muscle CBS during the follicular phase and pregnancy in vivo.
+
+
+
+#### Association of Cystathionine ß-Synthase Gene Polymorphisms With Preeclampsia.
+
+
+
+2018 Clinical and applied thrombosis/hemostasis : official journal of the International Academy of Clinical and Applied Thrombosis/Hemostasis
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/30380942
+
+
+https://doi.org/10.1177/1076029618808913
+
+
+
+de León Bautista, Romero-Valdovinos, Zavaleta-Villa, Martínez-Flores, Olivo-Díaz
+
+
+
+Preeclampsia (PE) is a pregnancy disorder that increases maternal and fetal morbidity and mortality worldwide. High plasma levels of homocysteine (Hcy) are a risk factor for several cardiovascular diseases. Cystathionine ß-synthase (CBS) plays an important role in Hcy homeostasis catalyzing the irreversible degradation of Hcy to cystathionine, protecting the endothelium from injury caused by hypoxia. Several mutations and polymorphisms may alter the expression of the CBS gene, resulting in variable levels of Hcy. The purpose of this study was to investigate the association of CBS gene polymorphisms with PE in Mexican women. A case-control study consisting of 129 pregnant women with PE (37 severe and 92 mild) and 173 women with uncomplicated pregnancies was performed. Polymorphisms, such as G797A, C785T, T833C, G919A, T959C, C1105T, and 844ins68 base pair, in the CBS gene were genotyped. The polymorphism G797A was monomorphic in cases with the presence of only G797A-G allele. Allele C785T-T and genotype C785T-C/T were associated with susceptibility in severe and mild PE. Alleles G797A-G and T959C-T were associated with susceptibility only in severe PE. Haplotype TGTWGTC was of susceptibility for severe PE and of protection for mild PE. Haplotypes CGTWGCC and CATWGTC seem to be protective for severe PE, but the latter is related to susceptibility in mild PE. The results suggest that C785T, G797A, and T959C mutations are contributing in different ways in severe and mild PE in our population and could be count as another related factor for this disease.
+
+
+
+#### E2ß stimulates ovine uterine artery endothelial cell H2S production in vitro by estrogen receptor-dependent upregulation of cystathionine ß-synthase and cystathionine <U+03B3>-lyase expression†.
+
+
+
+2018 Biology of reproduction
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/30277497
+
+
+https://doi.org/10.1093/biolre/ioy207
+
+
+
+Lechuga, Qi, Kim, Magness, Chen
+
+
+
+Endogenous hydrogen sulfide (H2S) is a potent vasodilator and proangiogenic second messenger synthesized from L-cysteine by cystathionine ß-synthase (CBS) and cystathionine <U+03B3>-lyase (CTH). Estrogens are potent vasodilators that stimulate H2S biosynthesis in uterine arteries (UA) in vivo; however, the underlying mechanisms are unknown. We hypothesized that estrogens stimulate H2S biosynthesis in UA endothelial cells (UAEC) via specific estrogen receptor (ER)-dependent mechanisms. In cultured primary UAEC, treatment with estradiol-17ß (E2ß) stimulated CBS and CTH mRNAs and proteins in a time- and concentration-dependent fashion. As little as 0.1 nM E2ß was effective in increasing CBS and CTH expressions and these stimulatory effects maximized with 10-100 nM E2ß at 48-72 h. E2ß also activated CBS and CTH promoters in UAEC, leading to CBS and CTH expression. Treatment with E2ß stimulated H2S production, which was blocked by specific inhibitors of either CBS or CTH and their combination and the ER antagonist ICI 182780. Treatment with either specific agonist of ERa or ERß stimulated both CBS and CTH mRNA and protein expressions and H2S production to levels similar to that of E2ß. Specific antagonist of either ERa or ERß blocked E2ß-stimulated CBS and CTH mRNA and protein expressions and H2S production. Combinations of either ERa or ERß agonists or their antagonists had no additive effects. Thus, E2ß stimulates H2S production by upregulating CBS and CTH mRNA and protein expressions through specific ERa or ERß-dependent CBS and CTH transcription in UAEC in vitro.
+
+
+
+#### Mercaptopyruvate acts as endogenous vasodilator independently of 3-mercaptopyruvate sulfurtransferase activity.
+
+
+
+2018 Nitric oxide : biology and chemistry
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/29452248
+
+
+
+
+
+
+
+Mitidieri, Tramontano, Gurgone, Citi, Calderone, Brancaleone, Katsouda, Nagahara, Papapetropoulos, Cirino, d'Emmanuele di Villa Bianca, Sorrentino
+
+
+
+
+
+
+#### NA
+
+
+2017 Pharmacological research
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/28760490
+
+
+
+
+
+
+
+Mitidieri, Tramontano, Gurgone, Imbimbo, Mirone, Fusco, Cirino, d'Emmanuele di Villa Bianca, Sorrentino
+
+
+
+
+
+#### A critical role for cystathionine-ß-synthase in hydrogen sulfide-mediated hypoxic relaxation of the coronary artery.
+
+
+
+2017 Vascular pharmacology
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/28552745
+
+
+
+
+
+
+
+Donovan, Wong, Roberts, Garle, Alexander, Dunn, Ralevic
+
+
+
+
+
+#### Augmented H2S production via cystathionine-beta-synthase upregulation plays a role in pregnancy-associated uterine vasodilation.
+
+
+
+2017 Biology of reproduction
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/28339573
+
+
+https://doi.org/10.1095/biolreprod.116.143834
+
+
+
+Sheibani, Lechuga, Zhang, Hameed, Wing, Kumar, Rosenfeld, Chen
+
+
+
+Endogenous hydrogen sulfide (H2S) synthesized via metabolizing L-cysteine by cystathionine-beta-synthase (CBS) and cystathionine-gamma-lyase (CSE) is a potent vasodilator and angiogenic factor. The objectives of this study were to determine if human uterine artery (UA) H2S production increases with augmented expression and/or activity of CBS and/or CSE during the menstrual cycle and pregnancy and whether exogenous H2S dilates UA. Uterine arteries from nonpregnant (NP) premenopausal proliferative (pPRM) and secretory (sPRM) phases of the menstrual cycle and pregnant (P) women were studied. H2S production was measured by the methylene blue assay. CBS and CSE mRNAs were assessed by quantitative real-time PCR, and proteins were assessed by immunoblotting and semiquantitative immunofluorescence microscopy. Effects of H2S on rat UA relaxation were determined by wire myography ex vivo. H2S production was greater in NP pPRM and P than NP sPRM UAs and inhibited by the specific CBS but not CSE inhibitor. CBS but not CSE mRNA and protein were greater in NP pPRM and P than NP sPRM UAs. CBS protein was localized to endothelium and smooth muscle and its levels were in a quantitative order of P &gt;NP UAs of pPRM&gt;sPRM. CSE protein was localized in UA endothelium and smooth muscle with no difference among groups. A H2S donor relaxed P &gt; NP UAs but not mesentery artery. Thus, human UA H2S production is augmented with endothelium and smooth muscle CBS upregulation, contributing to UA vasodilation in the estrogen-dominant physiological states in the proliferative phase of the menstrual cycle and pregnancy.
+
+
+
+#### Targeting the transsulfuration-H2S pathway by FXR and GPBAR1 ligands in the treatment of portal hypertension.
+
+
+
+2016 Pharmacological research
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/27475883
+
+
+
+
+
+
+Fiorucci, Distrutti
+
+
+
+Cirrhosis is a end-stage disease of the liver in which fibrogenesis, angiogenesis and distortion of intrahepatic microcirculation lead to increased intrahepatic resistance to portal blood flow, a condition known as portal hypertension. Portal hypertension is maintained by a variety of molecular mechanisms including sinusoidal endothelial cells (LSECs) hyporeactivity, activation of hepatic stellate cells (HSCs), reduction in hepatic endothelial nitric oxide synthase (eNOS) activity along with increased eNOS-derived NO generation in the splanchnic and systemic circulations. A reduction of the expression/function of the two major hydrogen sulfide (H2S)-producing enzymes, cystathionine <U+03B3>-lyase (CSE) and cystathionine ß-synthase (CBS), has also been demonstrated. A deficit in the transsulfuration pathway leading to the accumulation of homocysteine might contribute to defective generation of H2S and endothelial hyporeactivity. Bile acids are ligands for nuclear receptors, such as farnesoid X receptor (FXR), and G-protein-coupled receptors (GPCRs), such as the G-protein bile acid receptor 1 (GPBAR1). FXR and GPBAR1 ligands regulate the expression/activity of CSE by both genomic and non-genomic effects and have been proved effective in protecting against endothelial dysfunction observed in rodent models of cirrhosis. GPBAR1, a receptor for secondary bile acids, is selectively expressed by LSECs and its activation increases the expression of CSE and attenuates the production of endotelin-1, a potent vasoconstrictor agent. In vivo GPBAR1 ligand attenuates the imbalance between vasodilatory and vaso-constricting agents, making GPBAR1 a promising target in the treatment of portal hypertension.
+
+
+
+#### Caspase-1 Inflammasome Activation Mediates Homocysteine-Induced Pyrop-Apoptosis in Endothelial Cells.
+
+
+2016 Circulation research
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/27006445
+
+
+https://doi.org/10.1161/CIRCRESAHA.116.308501
+
+
+
+Xi, Zhang, Xu, Yang, Jiang, Sha, Cheng, Wang, Qin, Yu, Ji, Yang, Wang
+
+
+
+Endothelial injury is an initial mechanism mediating cardiovascular disease.</AbstractText>: Endothelial injury is an initial mechanism mediating cardiovascular disease.Here, we investigated the effect of hyperhomocysteinemia on programed cell death in endothelial cells (EC).</AbstractText>: Here, we investigated the effect of hyperhomocysteinemia on programed cell death in endothelial cells (EC).We established a novel flow-cytometric gating method to define pyrotosis (Annexin V(-)/Propidium iodide(+)). In cultured human EC, we found that: (1) homocysteine and lipopolysaccharide individually and synergistically induced inflammatory pyroptotic and noninflammatory apoptotic cell death; (2) homocysteine/lipopolysaccharide induced caspase-1 activation before caspase-8, caspase-9, and caspase-3 activations; (3) caspase-1/caspase-3 inhibitors rescued homocysteine/lipopolysaccharide-induced pyroptosis/apoptosis, but caspase-8/caspase-9 inhibitors had differential rescue effect; (4) homocysteine/lipopolysaccharide-induced nucleotide-binding oligomerization domain, and leucine-rich repeat and pyrin domain containing protein 3 (NLRP3) protein caused NLRP3-containing inflammasome assembly, caspase-1 activation, and interleukin (IL)-1ß cleavage/activation; (5) homocysteine/lipopolysaccharide elevated intracellular reactive oxygen species, (6) intracellular oxidative gradient determined cell death destiny as intermediate intracellular reactive oxygen species levels are associated with pyroptosis, whereas high reactive oxygen species corresponded to apoptosis; (7) homocysteine/lipopolysaccharide induced mitochondrial membrane potential collapse and cytochrome-c release, and increased B-cell lymphoma 2-associated X protein/B-cell lymphoma 2 ratio which were attenuated by antioxidants and caspase-1 inhibitor; and (8) antioxidants extracellular superoxide dismutase and catalase prevented homocysteine/lipopolysaccharide -induced caspase-1 activation, mitochondrial dysfunction, and pyroptosis/apoptosis. In cystathionine ß-synthase-deficient (Cbs(-/-)) mice, severe hyperhomocysteinemia-induced caspase-1 activation in isolated lung EC and caspase-1 expression in aortic endothelium, and elevated aortic caspase-1, caspase-9 protein/activity and B-cell lymphoma 2-associated X protein/B-cell lymphoma 2 ratio in Cbs(-/-) aorta and human umbilical vein endothelial cells. Finally, homocysteine-induced DNA fragmentation was reversed in caspase-1(-/-) EC. Hyperhomocysteinemia-induced aortic endothelial dysfunction was rescued in caspase-1(-/-) and NLRP3(-/-) mice.</AbstractText>: We established a novel flow-cytometric gating method to define pyrotosis (Annexin V(-)/Propidium iodide(+)). In cultured human EC, we found that: (1) homocysteine and lipopolysaccharide individually and synergistically induced inflammatory pyroptotic and noninflammatory apoptotic cell death; (2) homocysteine/lipopolysaccharide induced caspase-1 activation before caspase-8, caspase-9, and caspase-3 activations; (3) caspase-1/caspase-3 inhibitors rescued homocysteine/lipopolysaccharide-induced pyroptosis/apoptosis, but caspase-8/caspase-9 inhibitors had differential rescue effect; (4) homocysteine/lipopolysaccharide-induced nucleotide-binding oligomerization domain, and leucine-rich repeat and pyrin domain containing protein 3 (NLRP3) protein caused NLRP3-containing inflammasome assembly, caspase-1 activation, and interleukin (IL)-1ß cleavage/activation; (5) homocysteine/lipopolysaccharide elevated intracellular reactive oxygen species, (6) intracellular oxidative gradient determined cell death destiny as intermediate intracellular reactive oxygen species levels are associated with pyroptosis, whereas high reactive oxygen species corresponded to apoptosis; (7) homocysteine/lipopolysaccharide induced mitochondrial membrane potential collapse and cytochrome-c release, and increased B-cell lymphoma 2-associated X protein/B-cell lymphoma 2 ratio which were attenuated by antioxidants and caspase-1 inhibitor; and (8) antioxidants extracellular superoxide dismutase and catalase prevented homocysteine/lipopolysaccharide -induced caspase-1 activation, mitochondrial dysfunction, and pyroptosis/apoptosis. In cystathionine ß-synthase-deficient (Cbs(-/-)) mice, severe hyperhomocysteinemia-induced caspase-1 activation in isolated lung EC and caspase-1 expression in aortic endothelium, and elevated aortic caspase-1, caspase-9 protein/activity and B-cell lymphoma 2-associated X protein/B-cell lymphoma 2 ratio in Cbs(-/-) aorta and human umbilical vein endothelial cells. Finally, homocysteine-induced DNA fragmentation was reversed in caspase-1(-/-) EC. Hyperhomocysteinemia-induced aortic endothelial dysfunction was rescued in caspase-1(-/-) and NLRP3(-/-) mice.Hyperhomocysteinemia preferentially induces EC pyroptosis via caspase-1-dependent inflammasome activation leading to endothelial dysfunction. We termed caspase-1 responsive pyroptosis and apoptosis as pyrop-apoptosis.</AbstractText>: Hyperhomocysteinemia preferentially induces EC pyroptosis via caspase-1-dependent inflammasome activation leading to endothelial dysfunction. We termed caspase-1 responsive pyroptosis and apoptosis as pyrop-apoptosis.
+
+
+
+#### Characterization of relaxant mechanism of H2 S in mouse corpus cavernosum.
+
+
+
+2016 Clinical and experimental pharmacology &amp; physiology
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/26845078
+
+
+
+https://doi.org/10.1111/1440-1681.12554
+
+
+Aydinoglu, Ogulener
+
+
+
+The aim of this study was to investigate the mechanism of H2 S-induced relaxation in mouse corpus cavernosal tissue. l-cysteine (10(-6) × 10(-3) mol/L) and exogenous H2 S (NaHS; 10(-6) to 10(-3) mol/L) induced concentration-dependent relaxation. l-cysteine-induced relaxations was reduced by d,l-propargylglycine, a cystathionine gamma lyase (CSE) inhibitor but not influenced by aminooxyacetic acid, a cystathionine beta synthase (CBS) inhibitor. l-cysteine induced relaxations, but not of those of H2 S diminished in endothelium-denuded tissues. N(<U+03C9>) -nitro-l-arginine (l-NA; 10(-4) mol/L), a nitric oxide synthase inhibitor, and ODQ (10(-4) mol/L), a guanylyl cyclase inhibitor, increased the H2 S-induced relaxation. Zaprinast (5 × 10(-6) mol/L) and sildenafil (10(-6) mol/L), phosphodiesterase inhibitors, inhibited H2 S-induced relaxation. Adenylyl cyclase inhibitors N-ethylmaleimide (2.5 × 10(-5) mol/L) and SQ22536 (10(-4) mol/L) reduced relaxation to H2 S. Also, H2 S-induced relaxation was reduced by KCl (50 mmol/L), 4-aminopyridine (10(-3) mol/L), a Kv inhibitor, glibenclamide (10(-5) mol/L), a KATP inhibitor or barium chloride (10(-5) mol/L), a KIR inhibitor. However, H2 S-induced relaxation was not influenced by apamin (10(-6) mol/L), a SKC a (2+) inhibitor, charybdotoxin (10(-7) mol/L), an IKC a (2+) and BKC a (2+) inhibitor or combination of apamin and charybdotoxin. Nifedipine (10(-6) mol/L), an L-type calcium channel blocker and atropine (10(-6) mol/L), a muscarinic receptor blocker, inhibited H2 S-induced relaxation. However, H2 S-induced relaxation was not influenced by ouabain (10(-4) mol/L), a Na(+) /K(+) -ATPase inhibitor. This study suggests that H2 S endogenously synthesizes from l-cysteine by CSE endothelium-dependent in mouse corpus cavernosum tissue, and exogenous H2 S may cause endothelium-independent relaxations via activation of K channels (KATP channel, KV channels, KIR channels), L-type voltage-gated Ca(2+) channels, adenylyl cyclase/cAMP pathway and muscarinic receptor, and there is the interaction between H2 S and NO/cGMP.
+
+
+
+#### Cystathionine ß-synthase regulates endothelial function via protein S-sulfhydration.
+
+
+
+2015 FASEB journal : official publication of the Federation of American Societies for Experimental Biology
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/26405298
+
+
+https://doi.org/10.1096/fj.15-278648
+
+
+
+Saha, Chakraborty, Xiong, Dwivedi, Mustafi, Leigh, Ramchandran, Mukherjee, Bhattacharya
+
+
+
+Deficiencies of the human cystathionine ß-synthase (CBS) enzyme are characterized by a plethora of vascular disorders and hyperhomocysteinemia. However, several clinical trials demonstrated that despite reduction in homocysteine levels, disease outcome remained unaffected, thus the mechanism of endothelial dysfunction is poorly defined. Here, we show that the loss of CBS function in endothelial cells (ECs) leads to a significant down-regulation of cellular hydrogen sulfide (H2S) by 50% and of glutathione (GSH) by 40%. Silencing CBS in ECs compromised phenotypic and signaling responses to the VEGF that were potentiated by decreased transcription of VEGF receptor (VEGFR)-2 and neuropilin (NRP)-1, the primary receptors regulating endothelial function. Transcriptional down-regulation of VEGFR-2 and NRP-1 was mediated by a lack in stability of the transcription factor specificity protein 1 (Sp1), which is a sulfhydration target of H2S at residues Cys68 and Cys755. Reinstating H2S but not GSH in CBS-silenced ECs restored Sp1 levels and its binding to the VEGFR-2 promoter and VEGFR-2, NRP-1 expression, VEGF-dependent proliferation, and migration phenotypes. Thus, our study emphasizes the importance of CBS-mediated protein S-sulfhydration in maintaining vascular health and function.-Saha, S., Chakraborty, P. K., Xiong, X., Dwivedi, S. K. D., Mustafi, S. B., Leigh, N. R., Ramchandran, R., Mukherjee, P., Bhattacharya, R. Cystathionine ß-synthase regulates endothelial function via protein S-sulfhydration. 
+
+
+
+#### Hydrogen Sulfide and Urogenital Tract.
+
+
+2015 Handbook of experimental pharmacology
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/26162831
+
+
+
+https://doi.org/10.1007/978-3-319-18144-8_5
+
+
+di Villa Bianca, Cirino, Sorrentino
+
+
+
+In this chapter the role played by H2S in the physiopathology of urogenital tract revising animal and human data available in the current relevant literature is discussed. H2S pathway has been demonstrated to be involved in the mechanism underlying penile erection in human and experimental animal. Both cystathionine-ß synthase (CBS) and cystathionine-<U+03B3> lyase (CSE) are expressed in the human corpus cavernosum and exogenous H2S relaxes isolated human corpus cavernosum strips in an endothelium-independent manner. Hydrogen sulfide pathway also accounts for the direct vasodilatory effect operated by testosterone on isolated vessels. Convincing evidence suggests that H2S can influence the cGMP pathway by inhibiting the phosphodiesterase 5 (PDE-5) activity. All these findings taken together suggest an important role for the H2S pathway in human corpus cavernosum homeostasis. However, H2S effect is not confined to human corpus cavernosum but also plays an important role in human bladder. Human bladder expresses mainly CBS and generates in vitro detectable amount of H2S. In addition the bladder relaxant effect of the PDE-5 inhibitor sildenafil involves H2S as mediator. In conclusion the H2S pathway is not only involved in penile erection but also plays a role in bladder homeostasis. In addition the finding that it involved in the mechanism of action of PDE-5 inhibitors strongly suggests that modulation of this pathway can represent a therapeutic target for the treatment of erectile dysfunction and bladder diseases.
+
+
+
+#### Hyperhomocysteinemia suppresses bone marrow CD34+/VEGF receptor 2+ cells and inhibits progenitor cell mobilization and homing to injured vasculature-a role of ß1-integrin in progenitor cell migration and adhesion.
+
+
+
+2015 FASEB journal : official publication of the Federation of American Societies for Experimental Biology
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/25854700
+
+
+https://doi.org/10.1096/fj.14-267989
+
+
+
+Nelson, Wu, Jiang, Berretta, Houser, Choi, Wang, Huang, Yang, Wang
+
+
+
+Hyperhomocysteinemia (HHcy) impairs re-endothelialization and accelerates vascular remodeling. The role of CD34(+)/VEGF receptor (VEGFR) 2(+) progenitor cells (PCs) in vascular repair in HHcy is unknown. We studied the effect of HHcy on PCs and its role in vascular repair in severe HHcy (~150 µM), which was induced in cystathionine-ß synthase heterozygous mice fed a high-methionine diet for 8 weeks. Vascular injury was introduced by carotid air-dry endothelium denudation. CD34(+)/VEGFR2(+) cells were examined by flow cytometry. HHcy reduced bone marrow (BM) CD34(+)/VEGFR2(+) cells and suppressed replenishment of postinjury CD34(+)/VEGFR2(+) cells in peripheral blood (PB). Donor green fluorescent protein-positive PC homing to the injured vessel was reduced in HHcy after CD34(+) PCs from enhanced green fluorescent protein mice were adoptively transferred following carotid injury. CD34(+) PC transfusion partially reversed HHcy-suppressed re-endothelialization and HHcy-induced neointimal formation. Furthermore, homocysteine (Hcy) inhibited proliferation, adhesion, and migration and suppressed ß1-integrin expression and activity in human CD34(+) endothelial colony-forming cells (ECFCs) isolated from PBs in a dose-dependent manner. A functional-activating ß1-integrin antibody rescued Hcy-suppressed adhesion and migration in CD34(+) ECFCs. In conclusion, HHcy reduces BM CD34(+)/VEGFR2(+) generation and suppresses CD34(+)/VEGFR2(+) cell mobilization and homing to the injured vessel via ß1-integrin inhibition, which partially contributes to impaired re-endothelialization and vascular remodeling.
+
+
+
+#### Estrogen Replacement Therapy in Ovariectomized Nonpregnant Ewes Stimulates Uterine Artery Hydrogen Sulfide Biosynthesis by Selectively Up-Regulating Cystathionine ß-Synthase Expression.
+
+
+
+2015 Endocrinology
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/25825818
+
+
+https://doi.org/10.1210/en.2015-1086
+
+
+
+Lechuga, Zhang, Sheibani, Karim, Jia, Magness, Rosenfeld, Chen
+
+
+
+Estrogens dramatically dilate numerous vascular beds with the greatest response in the uterus. Endogenous hydrogen sulfide (H2S) is a potent vasodilator and proangiogenic second messenger, which is synthesized from L-cysteine by cystathionine ß-synthase (CBS) and cystathionine <U+03B3>-lyase (CSE). We hypothesized that estrogen replacement therapy (ERT) selectively stimulates H2S biosynthesis in uterine artery (UA) and other systemic arteries. Intact and endothelium-denuded UA, mesenteric artery (MA), and carotid artery (CA) were obtained from ovariectomized nonpregnant ewes (n = 5/group) receiving vehicle or estradiol-17ß replacement therapy (ERT). Total RNA and protein were extracted for measuring CBS and CSE, and H2S production was determined by the methylene blue assay. Paraffin-embedded UA rings were used to localize CBS and CSE proteins by immunofluorescence microscopy. ERT significantly stimulated CBS mRNA and protein without altering CSE mRNA or protein in intact and denuded UA. Quantitative immunofluorescence microscopic analyses showed CBS and CSE protein localization in endothelium and smooth muscle and confirmed that ERT stimulated CBS but not CSE protein expression in UA endothelium and smooth muscle. ERT also stimulated CBS, but not CSE, mRNA and protein expression in intact and denuded MA but not CA in ovariectomized ewes. Concomitantly, ERT stimulated UA and MA but not CA H2S production. ERT-stimulated UA H2S production was completely blocked by a specific CBS but not CSE inhibitor. Thus, ERT selectively stimulates UA and MA but not CA H2S biosynthesis by specifically up-regulating CBS expression, implicating a role of H2S in estrogen-induced vasodilation and postmenopausal women's health. 
+
+
+
+#### Ginkgolide B increases hydrogen sulfide and protects against endothelial dysfunction in diabetic rats.
+
+
+
+2015 Croatian medical journal
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/25727037
+
+
+NA
+
+
+Wang, Chen, Li, Lu, Zhao
+
+
+
+AIM: To evaluate the effect of ginkgolide B treatment on vascular endothelial function in diabetic rats.METHODS: The study included four groups with 15 male Sprague-Dawley rats: control group; control group treated with ginkgolide B; diabetic group; and diabetic treated with ginkgolide B. The activity of superoxide dismutase (SOD), malondialdehyde content, and nicotinamide adenine dinucleotide phosphate (NADPH) oxidase subunits, and glutathione peroxidase 1 (GPX1) protein expression were determined in aortic tissues. Vasoconstriction to phenylephrine (PHE) and vasorelaxation to acetylcholine (Ach) and sodium nitroprusside (SNP) were assessed in aortic rings. Nitric oxide (NO) and hydrogen sulfide (H2S) were measured, as well as cystathionine <U+03B3> lyase (CSE) and cystathionine ß synthetase (CBS) protein expression, and endothelial nitric oxide synthase (eNOS) activity.RESULTS: Diabetes significantly impaired PHE-induced vasoconstriction and Ach-induced vasorelaxation (P&lt;0.001), reduced NO bioavailability and H2S production (P&lt;0.001), SOD activity, and GPX1 protein expression (P&lt;0.001), and increased malondialdehyde content and NADPH oxidase subunits, and CSE and CBS protein expression (P&lt;0.001). Ginkgolide B treatment improved PHE vasoconstriction and Ach vasorelaxation (P&lt;0.001), restored SOD (P=0.005) and eNOS (P&lt;0.001) activities, H2S production (P=0.044) and decreased malondialdehyde content (P=0.014). Vasorelaxation to SNP was not signi<U+FB01>cantly different in control and diabetic rats with or without ginkgolide B treatment. Besides, ginkgolide B increased GPX1 protein expression and reduced NADPH oxidase subunits, CBS and CSE protein expression.CONCLUSION: Ginkgolide B alleviates endothelial dysfunction by reducing oxidative stress and elevating NO bioavailability and H2S production in diabetic rats.
+
+
+
+#### NaHS induces relaxation response in prostaglandin F(2a) precontracted bovine retinal arteries partially via K(v) and K(ir) channels.
+
+
+
+2015 Experimental eye research
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/25662313
+
+
+https://doi.org/10.1016/j.exer.2015.02.002
+
+
+
+Takir, Ortaköylü, Toprak, Uydes-Dogan
+
+
+
+Hydrogen sulphide (H2S) is known to be produced endogenously in ocular tissues with the highest levels in the retina and cornea. However, it is yet unclear whether it can modulate retinal arterial tone. Herein, we aimed to investigate the effectiveness and the mechanism of the action of H2S in the isolated bovine retinal arteries. For this purpose, the probable vasorelaxant and inhibitory effects of H2S on vascular reactivity were tested comparatively in the retinal arteries by using the donor, sodium hydrosulphide (NaHS). Thereafter, in relation to the mechanism of action of H2S, the role of nitric oxide (NO) and endothelial vasodilators of cyclooxygenase pathway as well as ATP-sensitive potassium channel (KATP), voltage-dependent potassium channel (Kv), calcium-activated potassium channel (KCa(++)), inwardly rectifying potassium channel (Kir), L-type voltage-dependent calcium channel and adenylate cyclase pathway were evaluated. NaHS (1µM-3mM) displayed prominent relaxations over the concentrations of 300 µM in both PGF2a and K(+) precontracted retinal arteries. Comparatively, in the presence of NaHS (3 mM) pretreatment, the maximum contractile responses and pEC50 values to PGF2a and K(+) were significantly reduced as well. Neither the presence of the known inhibitors of NO synthase, guanylate cyclase, cyclooxygenase, adenylate cyclase, KATP and KCa(++) type K(+) channels, and L-type voltage-dependent calcium channels nor the removal of endothelium, modified the relaxation response to NaHS in retinal arteries. However, a remarkable decrease was observed in the presence of the inhibitors of Kv or Kir type K(+) channels. In addition, administration of l-cysteine (1µM-3mM), the precursor of H2S, induced a modest relaxation response in PGF2a precontracted retinal arteries, which was significantly decreased in the presence of cystathionine-ß-synthase (CBS) inhibitor, aminooxyacetic acid, but was unmodified in the presence of the cystathionine-<U+03B3>-lyase (CSE) inhibitor, dl-propargylglycine or the deendothelization of retinal arteries. Our findings suggested that H2S might play a substantial role in the regulation of retinal arterial tone possibly by acting on Kv and Kir channels. 
+
+
+
+#### Hydrogen sulfide is involved in dexamethasone-induced hypertension in rat.
+
+
+2014 Nitric oxide : biology and chemistry
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/25461303
+
+
+https://doi.org/10.1016/j.niox.2014.11.013
+
+
+
+d'Emmanuele di Villa Bianca, Mitidieri, Donnarumma, Tramontano, Brancaleone, Cirino, Bucci, Sorrentino
+
+
+
+Glucocorticoid (GC)-induced hypertension is a common clinical problem still poorly understood. The presence of GC receptor (GR) in vascular smooth muscle and endothelial cells suggests a direct role for GC in vasculature. In response to hemodynamic shear stress, endothelium tonically releases nitric oxide (NO), endothelial-derived hyperpolarizing factor (EDHF) and prostacyclin contributing to vascular homeostasis. Recently, hydrogen sulfide (H2S) has been proposed as a candidate for EDHF. H2S is endogenously mainly formed from L-cysteine by the action of cystathionine-ß-synthase (CBS) and cystathionine-<U+03B3>-lyase (CSE). It plays many physiological roles and contributes to cardiovascular function. Here we have evaluated the role played by H2S in mesenteric arterial bed and in carotid artery harvested from rats treated with vehicle or dexamethasone (DEX; 1.5 mg/kg/day) for 8 days. During treatments systolic blood pressure was significantly increased in conscious rats. EDHF contribution was evaluated in ex-vivo by performing a concentration-response curve induced by acetylcholine (Ach) in presence of a combination of indomethacin and L-NG-Nitroarginine methyl ester in both vascular districts. EDHF-mediated relaxation was significantly reduced in DEX-treated group in both mesenteric bed and carotid artery. EDHF-mediated relaxation was abolished by pre-treatment with both apamin and charybdotoxin, inhibitors of small and big calcium-dependent potassium channels respectively, or with propargylglycine, inhibitor of CSE. Western blot analysis revealed a marked reduction in CBS and CSE expression as well as H2S production in homogenates of mesenteric arterial bed and carotid artery from DEX-treated rats. In parallel, H2S plasma levels were significantly reduced in DEX group compared with vehicle. In conclusion, an impairment in EDHF/H2S signaling occurs in earlier state of GC-induced hypertension in rats suggesting that counteracting this dysfunction may be beneficial to manage DEX-associated increase in blood pressure.
+
+
+
+#### Hyperhomocysteinemia and hyperglycemia induce and potentiate endothelial dysfunction via µ-calpain activation.
+
+
+2014 Diabetes
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/25352635
+
+
+https://doi.org/10.2337/db14-0784
+
+
+
+Cheng, Jiang, Pansuria, Fang, Mai, Mallilankaraman, Gandhirajan, Eguchi, Scalia, Madesh, Yang, Wang
+
+
+
+Plasma homocysteine (Hcy) levels are positively correlated with cardiovascular mortality in diabetes. However, the joint effect of hyperhomocysteinemia (HHcy) and hyperglycemia (HG) on endothelial dysfunction (ED) and the underlying mechanisms have not been studied. Mild (22 µmol/L) and moderate (88 µmol/L) HHcy were induced in cystathionine ß-synthase wild-type (Cbs(+/+)) and heterozygous-deficient (Cbs(-/+)) mice by a high-methionine (HM) diet. HG was induced by consecutive injection of streptozotocin. We found that HG worsened HHcy and elevated Hcy levels to 53 and 173 µmol/L in Cbs(+/+) and Cbs(-/+) mice fed an HM diet, respectively. Both mild and moderate HHcy aggravated HG-impaired endothelium-dependent vascular relaxation to acetylcholine, which was completely abolished by endothelial nitric oxide synthase (eNOS) inhibitor N(G)-nitro-L-arginine methyl ester. HHcy potentiated HG-induced calpain activation in aortic endothelial cells isolated from Cbs mice. Calpain inhibitors rescued HHcy- and HHcy/HG-induced ED in vivo and ex vivo. Moderate HHcy- and HG-induced µ-calpain activation was potentiated by a combination of HHcy and HG in the mouse aorta. µ-Calpain small interfering RNA (µ-calpsiRNA) prevented HHcy/HG-induced ED in the mouse aorta and calpain activation in human aortic endothelial cells (HAECs) treated with DL-Hcy (500 µmol/L) and d-glucose (25 mmol) for 48 h. In addition, HHcy accelerated HG-induced superoxide production as determined by dihydroethidium and 3-nitrotyrosin staining and urinary 8-isoprostane/creatinine assay. Antioxidants rescued HHcy/HG-induced ED in mouse aortas and calpain activation in cultured HAECs. Finally, HHcy potentiated HG-suppressed nitric oxide production and eNOS activity in HAECs, which were prevented by calpain inhibitors or µ-calpsiRNA. HHcy aggravated HG-increased phosphorylation of eNOS at threonine 497/495 (eNOS-pThr497/495) in the mouse aorta and HAECs. HHcy/HG-induced eNOS-pThr497/495 was reversed by µ-calpsiRNA and adenoviral transduced dominant negative protein kinase C (PKC)ß2 in HAECs. HHcy and HG induced ED, which was potentiated by the combination of HHcy and HG via µ-calpain/PKCß2 activation-induced eNOS-pThr497/495 and eNOS inactivation. 
+
+
+
+#### Annexin A1 mediates hydrogen sulfide properties in the control of inflammation.
+
+
+
+2014 The Journal of pharmacology and experimental therapeutics
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/25077524
+
+
+
+https://doi.org/10.1124/jpet.114.217034
+
+
+Brancaleone, Mitidieri, Flower, Cirino, Perretti
+
+
+
+Hydrogen sulfide (H2S) is a gaseous mediator synthesized in mammalian tissues by three main enzymes-cystathionine-ß-synthase (CBS), cystathionine-<U+03B3>-lyase (CSE), and 3-mercaptopyruvate-sulfurtransferase-and its levels increase under inflammatory conditions or sepsis. Since H2S and H2S-releasing molecules afford inhibitory properties in leukocyte trafficking, we tested whether endogenous annexin A1 (AnxA1), a glucocorticoid-regulated inhibitor of inflammation acting through formylated-peptide receptor 2 (ALX), could display intermediary functions in the anti-inflammatory profile of H2S. We first investigated whether endogenous AnxA1 could modulate H2S biosynthesis. To this end, a marked increase in CBS and/or CSE gene products was quantified by quantitative real-time polymerase chain reaction in aortas, kidneys, and spleens collected from AnxA1(-/-) mice, as compared with wild-type animals. When lipopolysaccharide-stimulated bone marrow-derived macrophages were studied, H2S-donor sodium hydrosulfide (NaHS) counteracted the increased expression of inducible nitric oxide synthase and cyclooxygenase 2 mRNA evoked by the endotoxin, yet it was inactive in macrophages harvested from AnxA1(-/-) mice. Next we studied the effect of in vivo administration of NaHS in a model of interleukin-1ß (IL-1ß)-induced mesenteric inflammation. AnxA1(+/+) mice treated with NaHS (100 µmol/kg) displayed inhibition of IL-1ß-induced leukocyte adhesion/emigration in the inflamed microcirculation, not observed in AnxA1(-/-) animals. These results were translated by testing human neutrophils, where NaHS (10-100 µM) prompted an intense mobilization (&gt;50%) of AnxA1 from cytosol to cell surface, an event associated with inhibition of cell/endothelium interaction under flow. Taken together, these data strongly indicate the existence of a positive interlink between AnxA1 and H2S pathway, with nonredundant functions in the control of experimental inflammation. 
+
+
+
+#### Endothelial dysfunction: the link between homocysteine and hydrogen sulfide.
+
+
+2014 Current medicinal chemistry
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/25005183
+
+
+NA
+
+
+Pushpakumar, Kundu, Sen
+
+
+
+High level of homocysteine (hyperhomocysteinemia, HHcy) is associated with increased risk for vascular disease. Evidence for this emerges from epidemiological studies which show that HHcy is associated with premature peripheral, coronary artery and cerebrovascular disease independent of other risk factors. Possible mechanisms by which homocysteine causes vascular injury include endothelial injury, DNA dysfunction, proliferation of smooth muscle cells, increased oxidative stress, reduced activity of glutathione peroxidase and promoting inflammation. HHcy has been shown to cause direct damage to endothelial cells both in vitro and in vivo. Clinically, this manifests as impaired flow-mediated vasodilation and is mainly due to a reduction in nitric oxide synthesis and bioavailability. The effect of impaired nitric oxide release can in turn trigger and potentiate atherothrombogenesis and oxidative stress. Endothelial damage is a crucial aspect of atherosclerosis and precedes overt manifestation of disease. In addition, endothelial dysfunction is also associated with hypertension, diabetes, ischemia reperfusion injury and neurodegenerative diseases. Homocysteine is a precursor of hydrogen sulfide (H2S) which is formed by transulfuration process catalyzed by the enzymes, cystathionine ß-synthase and cystathionine <U+03B3>-lyase. H2S is a gasotransmitter that has emerged recently as a novel mediator in cardiovascular homeostasis. As a potent vasodilator, it plays several roles which include regulation of vessel diameter, protection of endothelium from redox stress, ischemia reperfusion injury and chronic inflammation. However, the precise mechanism by which it mediates these beneficial effects is complex and still remains unclear. Current evidence indicates H2S modulates cellular functions by a variety of intracellular signaling processes. In this review, we summarize the mechanisms of HHcy-induced endothelial dysfunction and the metabolism and physiological functions of H2S as a protective agent.
+
+
+
+#### Epigenetic regulation of aortic remodeling in hyperhomocysteinemia.
+
+
+
+2014 FASEB journal : official publication of the Federation of American Societies for Experimental Biology
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/24739303
+
+
+https://doi.org/10.1096/fj.14-250183
+
+
+
+Narayanan, Pushpakumar, Givvimani, Kundu, Metreveli, James, Bratcher, Tyagi
+
+
+
+Hyperhomocysteinemia (HHcy) is prevalent in patients with hypertension and is an independent risk factor for aortic pathologies. HHcy is known to cause an imbalance between matrix metalloproteinases (MMPs) and tissue inhibitors of metalloproteinases (TIMPs), leading to the accumulation of collagen in the aorta and resulting in stiffness and development of hypertension. Although the exact mechanism of extracellular matrix (ECM) remodeling is unclear, emerging evidence implicates epigenetic regulation involving DNA methylation. Our purpose was to investigate whether 5-aza-2'-deoxycytidine (Aza), a DNA methyltransferase (DNMT1) inhibitor, reduces high blood pressure (BP) by regulating aortic ECM remodeling in HHcy. Wild-type and cystathionine ß-synthase (CBS)(+/-) HHcy mice were treated with Aza (0.5 mg/kg body weight). In HHcy mice, Aza treatment normalized the plasma homocysteine (Hcy) level and BP. Thoracic and abdominal aorta ultrasound revealed a reduction in the resistive index and wall-to-lumen ratio. Vascular response to phenylephrine, acetylcholine, and sodium nitroprusside improved after Aza in HHcy mice. Histology showed a marked reduction in collagen deposition in the aorta. Aza treatment decreased the expression of DNMT1, MMP9, TIMP1, and S-adenosyl homocysteine hydrolase (SAHH) and upregulated methylene tetrahydrofolate reductase (MTHFR). We conclude that reduction of DNA methylation by Aza in HHcy reduces adverse aortic remodeling to mitigate hypertension.
+
+
+
+#### Endogenous production of hydrogen sulfide in human sinus mucosa and its expression levels are altered in patients with chronic rhinosinusitis with and without nasal polyps.
+
+
+
+2014 American journal of rhinology &amp; allergy
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/24717871
+
+
+
+https://doi.org/10.2500/ajra.2014.28.3972
+
+
+Hwang, Jun, Park, Kim, Lee, Hwang, Lee, Lee, Lee
+
+
+
+BACKGROUND: Chronic rhinosinusitis with nasal polyps (CRSwNPs) or CRS without nasal polyps (CRSsNPs) is characterized by persistent inflammation of sinonasal mucosa. No one causative factor fully explains for the pathological manifestations of CRS. Endogenous hydrogen sulfide (H2S) has been shown to participate in inflammatory diseases, functioning as an inflammatory mediator in various organs. We analyzed the contents and synthesis activity of H2S, the expression and distribution pattern of H2S-generating enzymes, cystathione ß-synthase (CBS), and cystathione <U+03B3>-lyase (CSE) in CRSwNPs and CRSsNPs. The effects of H2S on the expression of CRS-relevant cytokines and the effects of cytokines on the expression of CBS and CSE were assessed in an in vitro experiment.METHODS: The contents and synthesis activity of H2S and the expression and distribution pattern of CBS and CSE in sinus mucosa were evaluated using spectrophotometry, real-time polymerase chain reaction, Western blot, and immunohistochemistry. Cultured epithelial cells were used to elucidate the effects of H2S donor, sodium hydrosulfide (NaHS), on the expression of CRS-relevant cytokines and the effects of cytokines on H2S-generating enzymes expression.RESULTS: The contents and synthesis activity of H2S were increased in CRSwNPs and CRSsNPs. CBS and CSE were localized to the superficial epithelium and submucosal glands, but CSE was also found in vascular endothelium. NaHS induced increased expression of IL-4, IL-5, interferon <U+03B3>, and TNF-a. CBS and CSE expression in cultured cells was up-regulated by CRS-relevant cytokines.CONCLUSION: H2S levels are increased in CRS, contributing to increased production of cytokines. These results suggest that H2S may function as inflammatory mediator in CRS.
+
+
+
+#### [Chemical biology of hydrogen sulfide].
+
+
+2013 Nihon yakurigaku zasshi. Folia pharmacologica Japonica
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/23749076
+
+
+NA
+
+
+Kitajima, Nishida
+
+
+
+
+
+#### Hydrogen sulfide in the mouse ductus arteriosus: a naturally occurring relaxant with potential EDHF function.
+
+
+
+2013 American journal of physiology. Heart and circulatory physiology
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/23376828
+
+
+
+https://doi.org/10.1152/ajpheart.00718.2012
+
+
+Baragatti, Ciofini, Sodini, Luin, Scebba, Coceani
+
+
+
+We have previously reported that bradykinin relaxes the fetal ductus arteriosus via endothelium-derived hyperpolarizing factor (EDHF) when other naturally occurring relaxants (prostaglandin E2, nitric oxide, and carbon monoxide) are suppressed, but the identity of the agent could not be ascertained. Here, we have examined in the mouse whether hydrogen sulfide (H2S) is a relaxant of the ductus and, if so, whether it may also function as an EDHF. We found in the vessel transcripts for the H2S synthetic enzymes, cystathionine-<U+03B3>-lyase (CSE) and cystathionine-ß-synthase (CBS), and the presence of these enzymes was confirmed by immunofluorescence microscopy. CSE and CBS were distributed across the vessel wall with the former prevailing in the intimal layer. Both enzymes occurred within the endoplasmic reticulum of endothelial and muscle cells, whereas only CSE was located also in the plasma membrane. The isolated ductus contracted to inhibitors of CSE (d,l-propargylglycine, PPG) and CBS (amino-oxyacetic acid), and PPG contraction was attenuated by removal of the endothelium. EDHF-mediated bradykinin relaxation was curtailed by both PPG and amino-oxyacetic acid, whereas the relaxation to sodium nitroprusside was not affected by either treatment. The H2S donor sodium hydrogen sulfide (NaHS) was also a potent, concentration-dependent relaxant. We conclude that the ductus is endowed with a H2S system exerting a tonic relaxation. In addition, H2S, possibly via an overriding CSE source, qualifies as an EDHF. These findings introduce a novel vasoregulatory mechanism into the ductus, with implications for antenatal patency of the vessel and its transitional adjustments at birth.
+
+
+
+#### Distribution of H2S synthesis enzymes in the walls of cerebral arteries in rats.
+
+
+
+2013 Bulletin of experimental biology and medicine
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/23330102
+
+
+NA
+
+
+Chertok, Kotsyuba
+
+
+
+The distribution of two enzymes involved in H(2)S synthesis, cystationine ß-synthase (CBS) and cystationine <U+03B3>-liase (CSE), was studied in the walls of the internal carotid artery, order I-V branches of the middle cerebral artery basin, and intracerebral vessels of adult Wistar rats. Immunohistochemical staining showed the presence of CBS in the endothelium of small pial arteries (order IV-V branches) and intracerebral arterioles and in the capillary walls, neurons, and vascular nerves. As for CSE, in the internal carotid artery and large (order I-II) pial branches it was found mainly in the tunica media myocytes, in order III-IV vessels in myocytes and endothelium, and in smaller pial and intracerebral vessels in the endothelium. Along with enzyme-positive vessels, many pial and intracerebral arteries contained no these enzymes in the walls.
+
+
+
+#### Effect of catechin/epicatechin dietary intake on endothelial dysfunction biomarkers and proinflammatory cytokines in aorta of hyperhomocysteinemic mice.
+
+
+
+2012 European journal of nutrition
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/22899103
+
+
+https://doi.org/10.1007/s00394-012-0435-0
+
+
+
+Noll, Lameth, Paul, Janel
+
+
+
+PURPOSE: Hyperhomocysteinemia is well recognized as an independent risk factor for the development of premature atherosclerosis. Atherosclerosis, however, may be prevented by polyphenols, potent antioxidant compounds with anti-atherogenic properties. Previously, we used cystathionine beta synthase-deficient mice [Cbs (±)] fed a high-methionine diet-a murine model of hyperhomocysteinemia-to show that daily intake of a red wine polyphenolic extract, mainly comprised of catechin and epicatechin, has a beneficial effect on aortic expression of endothelial dysfunction biomarkers and pro-inflammatory cytokines. The aim of the present study was to understand whether catechin and epicatechin, in purified forms, have anti-atherogenic effects in hyperhomocysteinemia.METHODS: Cbs (±) mice received 50 µg of catechin and/or epicatechin daily in drinking water for 1 month. Plasma homocysteine (Hcy) level and aortic expression of several endothelial dysfunction biomarkers (Vcam-1, Icam-1, E-selectin, and Lox-1) and pro-inflammatory cytokines (Tnf-a, Il-6) were assessed.RESULTS: We found that both catechin and epicatechin had a beneficial effect on plasma homocysteine levels and endothelial dysfunction biomarker expression; however, only catechin had a beneficial effect on pro-inflammatory cytokine expression. Further, when both polyphenols were given, a beneficial effect was observed only on pro-inflammatory cytokine expression.CONCLUSIONS: Catechin seems to be a more potent anti-atherogenic compound than epicatechin in hyperhomocysteinemia and should be considered as a novel therapeutic approach against endothelial dysfunction induced by this condition.
+
+
+
+#### A mechanism of retinal protection from light-induced degeneration by hydrogen sulfide.
+
+
+
+2012 Communicative &amp; integrative biology
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/22808324
+
+
+https://doi.org/10.4161/cib.18679
+
+
+
+Mikami, Kimura
+
+
+
+Since our initial demonstrations that hydrogen sulfide (H(2)S) may function as a neuromodulator in the brain and a smooth muscle relaxant in the vascular system, accumulating evidence shows that H(2)S may function as a signaling molecule. We and others also found that H(2)S has a cytoprotective effect. Because H(2)S is well-known toxic gas, a cytoprotective role has been overlooked. H(2)S protects neurons from oxidative stress. It also protects cardiac muscle from ischemia-reperfusion injury. The finding led to the application of H(2)S to the bypass surgery patients in Phase II clinical trial. Cystathionine ß-synthase (CBS) and cystathionine <U+03B3>-lyase (CSE) are well known as H(2)S-producing enzymes. We recently demonstrated that the other H(2)S-producing enzyme, 3-mercaptopyruvate sulfurtransferase (3MST) along with cysteine aminotransferase (CAT) is localized to neurons in the brain and to the vascular endothelium. However, the regulation of H(2)S production by 3MST/CAT pathway had not been well understood. The present study shows that H(2)S production by 3MST/CAT pathway is regulated by Ca(2+) and that H(2)S protects retinal photoreceptor cells from light induced degeneration by suppressing excessive Ca(2+) influx caused by intense light.
+
+
+
+#### Asymmetric dimethylarginine in adults with cystathionine ß-synthase deficiency.
+
+
+2012 Atherosclerosis
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/22484094
+
+
+https://doi.org/10.1016/j.atherosclerosis.2012.03.009
+
+
+
+Rocha, Teerlink, Janssen, Kluijtmans, Smulders, Jakobs, Tavares de Almeida, Rivera, Castro, Blom
+
+
+
+In hyperhomocysteinemia (HHcy), an independent risk factor for cardiovascular diseases, endothelial dysfunction due to reduced bioavailability of nitric oxide is a consistent finding. However, the underlying mechanisms remain unknown. Increased levels of the nitric oxide synthase inhibitor asymmetric dimethylarginine (ADMA) have been associated with HHcy, and may contribute, at least in part, for the homocysteine-induced endothelial dysfunction, but whether cystathionine ß-synthase (CBS) deficiency is associated with increased ADMA has hardly been investigated. To address this question, we measured total homocysteine (tHcy), ADMA and symmetric dimethylarginine (SDMA) in plasma of 22 adult CBS deficient patients, using established HPLC techniques. Results showed that in CBS deficient patients with elevated levels of tHcy (median (total range): 33 (14-237) µmol/L), both ADMA and SDMA levels were normal. Moreover, tHcy and ADMA concentrations were not correlated (r(s)=0.017, p=0.94). Our results favor the hypothesis that the negative vascular effects of HHcy have an ADMA-independent etiology.
+
+
+
+#### Hydrogen sulfide producing enzymes in pregnancy and preeclampsia.
+
+
+2012 Placenta
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/22391326
+
+
+
+https://doi.org/10.1016/j.placenta.2012.02.014
+
+
+
+Holwerda, Bos, Rajakumar, Ris-Stalpers, van Pampus, Timmer, Erwich, Faas, van Goor, Lely
+
+
+
+Preeclampsia, a human pregnancy specific disorder is characterized by an anti-angiogenic state. As hydrogen sulfide (H(2)S) has pro-angiogenic and anti-oxidative characteristics, we hypothesized that H(2)S levels could play a role in the pathogenesis of preeclampsia and studied the placental expression of the H(2)S-producing enzymes cystathionine-<U+03B3>-lyase (CSE) and cystathionine-ß-synthase (CBS). CBS and CSE protein are expressed in the fetal-placental endothelium and CBS only in Hofbauer cells. CBS mRNA expression is decreased (p = 0.002) in early-onset preeclampsia, while CSE mRNA is unchanged. Thus, down regulation of CBS during early-onset preeclampsia may result in less H(2)S-production and may aid in the anti-angiogenic state.
+
+
+
+#### Role of endogenous hydrogen sulfide in neurogenic relaxation of rat corpus cavernosum.
+
+
+2012 Biochemical pharmacology
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/22306852
+
+
+https://doi.org/10.1016/j.bcp.2012.01.026
+
+
+Ghasemi, Dehpour, Moore, Mani
+
+
+
+Relaxation of corpus cavernosum during penile erection is mediated by a non-adrenergic non-cholinergic (NANC) neurotransmission and by the endothelium via the release of nitric oxide. Hydrogen sulfide (H(2)S) is an endogenous gaseous mediator which is a potent vasodilator and a neurotransmitter. This study was initiated to characterize the role of H(2)S in NANC neurogenic transmission in rat corpus cavernosum. The expression of H(2)S producing enzymes was assessed using RT-PCR as well as Western blotting and showed the expression of cystathionine <U+03B3>-lyase (CSE) in rat corporal tissue. Homogenates from rat corpus cavernosum convert l-cysteine to H(2)S and this was partially inhibited by a CSE inhibitor, propargylglycine. Electrical stimulation of corporal tissue strips caused NANC relaxation. This neurogenic relaxation was significantly enhanced by inhibition of CSE by propargylglycine indicating that endogenously produced H(2)S may have a negative regulatory role in neurogenic relaxation of rat corpus cavernosum. To investigate this further we used physiologically relevant concentrations of exogenous NaHS, and showed that nanomolar concentrations could inhibit corporal relaxation induced by a nitroxyl (HNO) donor (Angeli's salt) but not with nitrosonium (NO(+)) or NO donors. This suggests that an interaction between endogenously produced H(2)S and nitroxyl (HNO) might be involved in erectile function.
+
+
+
+#### Hydrogen sulfide in the pathogenesis of atherosclerosis and its therapeutic potential.
+
+
+2011 Expert review of clinical pharmacology
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/22115351
+
+
+https://doi.org/10.1586/ecp.10.130
+
+
+Lynn, Austin
+
+
+
+Hydrogen sulfide (H(2)S) was the third gaseous transmitter to be discovered, along with nitric oxide and carbon monoxide, and has been proposed to be involved in numerous physiological processes and pathology of various diseases. Hyperhomocysteinemia is an independent risk factor for cardiovascular disease, including atherosclerosis. Atherosclerosis is characterized by multiple key events including endothelial dysfunction, monocyte infiltration and their differentiation into macrophages, conversion of lesion-resident macrophages into foam cells, and smooth muscle cell proliferation. Increasing evidence has indicated that H(2)S plays a potentially significant role in all of these biological processes and that malfunction of H(2)S homeostasis may contribute to the pathogenesis of atherosclerosis. Experiments have demonstrated that H(2)S supplementation ameliorated many of these atherogenic processes and hence, such supplementation potentially may prove to be of therapeutic benefit in the prevention or treatment of atherosclerosis. H(2)S levels may be induced by the administration of H(2)S or H(2)S donors, or alternatively be reduced by the administration of specific cystathionine ß-synthase or cystathionine <U+03B3>-lyase inhibitors. However, issues remain with the potential use of currently available H(2)S-modulating agents in a clinical setting. This review will provide a description of the current literature on the involvement of H(2)S in these key aspects of vascular biology that contribute to the development of atherosclerosis, as well as the therapeutic potential of currently available H(2)S-modulating agents.
+
+
+
+#### Hydrogen sulfide protects the retina from light-induced degeneration by the modulation of Ca2+ influx.
+
+
+
+2011 The Journal of biological chemistry
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/21937432
+
+
+https://doi.org/10.1074/jbc.M111.298208
+
+
+
+Mikami, Shibuya, Kimura, Nagahara, Yamada, Kimura
+
+
+
+Hydrogen sulfide (H(2)S) has recently been recognized as a signaling molecule as well as a cytoprotectant. Cystathionine ß-synthase (CBS) and cystathionine <U+03B3>-lyase (CSE) are well-known as H(2)S-producing enzymes. We recently demonstrated that 3-mercaptopyruvate sulfurtransferase (3MST) along with cysteine aminotransferase (CAT) produces H(2)S in the brain and in vascular endothelium. However, the cellular distribution and regulation of these enzymes are not well understood. Here we show that 3MST and CAT are localized to retinal neurons and that the production of H(2)S is regulated by Ca(2+); H(2)S, in turn, regulates Ca(2+) influx into photoreceptor cells by activating vacuolar type H(+)-ATPase (V-ATPase). We also show that H(2)S protects retinal neurons from light-induced degeneration. The excessive levels of light exposure deteriorated photoreceptor cells and increased the number of TUNEL- and 8-hydroxy-2'-deoxyguanosine (8-OHdG)-positive cells. Degeneration was greatly suppressed in the retina of mice administered with NaHS, a donor of H(2)S. The present study provides a new insight into the regulation of H(2)S production and the modulation of the retinal transmission by H(2)S. It also shows a cytoprotective effect of H(2)S on retinal neurons and provides a basis for the therapeutic target for retinal degeneration.
+
+
+
+#### Folic acid improves acetylcholine-induced vasoconstriction of coronary vessels isolated from hyperhomocysteinemic mice: an implication to coronary vasospasm.
+
+
+
+2011 Journal of cellular physiology
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/21792928
+
+
+https://doi.org/10.1002/jcp.22621
+
+
+
+Qipshidze, Metreveli, Lominadze, Tyagi
+
+
+
+Human atherosclerotic coronary vessels elicited vasoconstriction to acetylcholine (Ach) and revealed a phenomenon of vasospasm. Homocysteine (Hcy) levels are elevated in the atherosclerotic plaque tissue, suggesting its pathological role in endothelial damage in atherosclerotic diseases. Accordingly, we examined the role hyperhomocysteinemia in coronary endothelial dysfunction, vessel wall thickness, lumen narrowing, leading to acute/chronic coronary vasospasm. The therapeutic potential and mechanisms of folic acid (FA) using hyperhomocysteinemic cystathionine beta synthase heterozygote (CBS-/+) and wild type (CBS+/+) mice were addressed. The CBS-/+ and CBS+/+ mice were treated with or without a Hcy lowering agent FA in drinking water (0.03 g/L) for 4 weeks. The isolated mouse septum coronary artery was cannulated and pressurized at 60 mmHg. The wall thickness and lumen diameters were measured by Ion-Optic. The vessels were treated with Ach (10(-8) -10(-5) <U+2009>M) and, for comparison, with non-endothelial vasodilator sodium nitroprusside (10(-5) <U+2009>M). The endothelium-impaired arteries from CBC-/+ mice constricted in response to Ach and this vasoconstriction was mitigated with FA supplementation. The level of endothelial nitric oxide synthase (eNOS) was lower in coronary artery in CBS-/+ than of CBS+/+ mice. Treatment with FA increased the levels of Ach-induced NO generation in the coronary artery of CBS-/+ mice. The results suggest that Ach induced coronary vasoconstriction in CBS-/+ mice and this vasoconstriction was ameliorated by FA treatment. The mechanisms for the impairment of vascular function and therapeutic effects of FA may be related to the regulation of eNOS expression, NO availability and tissue homocysteine.
+
+
+
+#### Correction of endothelial dysfunction after selective homocysteine lowering gene therapy reduces arterial thrombogenicity but has no effect on atherogenesis.
+
+
+
+2011 Journal of molecular medicine (Berlin, Germany)
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/21688073
+
+
+
+https://doi.org/10.1007/s00109-011-0778-7
+
+
+Jacobs, Van Craeyveld, Muthuramu, Gordts, Emmerechts, Hoylaerts, Herijgers, De Geest
+
+
+
+Hyperhomocysteinemia is an independent risk factor for ischemic cardiovascular diseases, but its causal role in atherothrombosis remains controversial. Proatherogenic and/or prothrombotic effects may underlie the potential causal relation between hyperhomocysteinemia and cardiovascular events. Here, the effects of selective lowering of plasma homocysteine, plasma cholesterol, or both on endothelial function and on atherogenesis in male hyperlipidemic and hyperhomocysteinemic C57BL/6 low-density lipoprotein receptor (LDLr)(-/-)/cystathionine-ß-synthase (CBS)(+/-)-deficient mice were investigated. Second, we evaluated whether selective homocysteine lowering has anti-thrombotic effects in a model of arterial thrombosis. A hyperhomocysteinemic and atherogenic diet was started at the age of 12 weeks. Three weeks later, gene transfer was performed with E1E3E4-deleted adenoviral vectors for hepatocyte-restricted overexpression of CBS (AdCBS) or of the LDLr (AdLDLr), or with the control vector Adnull. In a fourth group, AdCBS and AdLDLr were co-administered. Selective homocysteine lowering but not selective cholesterol lowering restored endothelial function at 6 weeks after gene transfer. Intimal area in the aortic root and in the brachiocephalic artery at 13 weeks was more than 100-fold (p<U+2009>&lt;<U+2009>0.001) smaller in AdLDLr and AdCBS/AdLDLr mice than in control mice and AdCBS mice. No differences in intimal area were observed between control mice and AdCBS mice. In a model of carotid artery thrombosis, the average time to first occlusion and to stable occlusion were 1.9-fold (p<U+2009>&lt;<U+2009>0.01) and 2.1-fold longer (p<U+2009>&lt;<U+2009>0.01), respectively, in AdCBS-treated mice than in control mice. Taken together, these data show that correction of endothelial dysfunction following selective homocysteine lowering has anti-thrombotic but no anti-atherogenic effects.
+
+
+
+#### Hyperhomocysteinemia impairs endothelium-derived hyperpolarizing factor-mediated vasorelaxation in transgenic cystathionine beta synthase-deficient mice.
+
+
+
+2011 Blood
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/21653942
+
+
+https://doi.org/10.1182/blood-2011-01-333310
+
+
+
+Cheng, Jiang, Kruger, Praticò, Gupta, Mallilankaraman, Madesh, Schafer, Durante, Yang, Wang
+
+
+
+Hyperhomocysteinemia (HHcy) is associated with endothelial dysfunction (ED), but the mechanism is largely unknown. In this study, we investigated the role and mechanism of HHcy-induced ED in microvasculature in our newly established mouse model of severe HHcy (plasma total homocysteine, 169.5 µM). We found that severe HHcy impaired nitric oxide (NO)- and endothelium-derived hyperpolarizing factor (EDHF)-mediated, endothelium-dependent relaxations of small mesenteric arteries (SMAs). Endothelium-independent and prostacyclin-mediated endothelium-dependent relaxations were not changed. A nonselective Ca(2+)-activated potassium channel (K(Ca)) inhibitor completely blocked EDHF-mediated relaxation. Selective blockers for small-conductance K(Ca) (SK) or intermediate-conductance K(Ca) (IK) failed to inhibit EDHF-mediated relaxation in HHcy mice. HHcy increased the levels of SK3 and IK1 protein, superoxide (O(2)(-)), and 3-nitrotyrosine in the endothelium of SMAs. Preincubation with antioxidants and peroxynitrite (ONOO(-)) inhibitors improved endothelium-dependent and EDHF-mediated relaxations and decreased O(2)(-) production in SMAs from HHcy mice. Further, EDHF-mediated relaxation was inhibited by ONOO(-) and prevented by catalase in the control mice. Finally, L-homocysteine stimulated O(2)(-) production, which was reversed by antioxidants, and increased SK/IK protein levels and tyrosine nitration in cultured human cardiac microvascular endothelial cells. Our results suggest that HHcy impairs EDHF relaxation in SMAs by inhibiting SK/IK activities via oxidation- and tyrosine nitration-related mechanisms.
+
+
+
+#### Hydrogen sulfide: its production and functions.
+
+
+2011 Experimental physiology
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/21527544
+
+
+
+https://doi.org/10.1113/expphysiol.2011.057455
+
+
+Kimura
+
+
+
+Endogenous levels of sulfide in the brain have been measured in rats, humans and bovines in 1989 and 1990, suggesting that H(2)S may have a physiological function. We demonstrated in 1996 that cystathionine ß-synthase can produce H(2)S in the brain and that H(2)S facilitates the induction of hippocampal long-term potentiation by enhancing the activity of NMDA receptors. The following year, we showed that another H(2)S-producing enzyme, cystathionine <U+03B3>-lyase, is expressed in the thoracic aorta, portal vein and ileum and that H(2)S relaxes these tissues. We proposed that H(2)S may be a neuromodulator as well as a smooth muscle relaxant. In addition to a function as a signalling molecule, we demonstrated another function as a cytoprotectant in 2004. Hydrogen sulfide protects neurons from oxidative stress by reinstating the reduced glutathione levels. We recently demonstrated that a third H(2)S-producing enzyme, 3-mercaptopyruvate sulfurtransferase (3MST), is expressed in neurons and vascular endothelium. In addition to reinstating glutathione levels, H(2)S produced by 3MST, which is mainly localized to mitochondria, reduces reactive oxygen species generated in these organelles.
+
+
+
+#### Production of H2S by 3-mercaptopyruvate sulphurtransferase.
+
+
+2011 Journal of biochemistry
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/21324981
+
+
+https://doi.org/10.1093/jb/mvr018
+
+
+Tanizawa
+
+
+
+Hydrogen sulfide (H(2)S) has been established as the third gaseous signaling molecule following nitric oxide and carbon monoxide and participates in a variety of cellular functions such as modulation of neuronal transmission, endothelium-dependent vasorelaxation, stimulation of angiogenesis and regulation of insulin release. Although cystathionine ß-synthase and cystathionine <U+03B3>-lyase have been regarded as the main producers of H(2)S in many tissues including brain, liver and kidney, Kimura and his colleagues have recently communicated that 3-mercaptopyruvate sulphurtransferase coupled with cysteine (aspartate) aminotransferase is responsible for the production of H(2)S in the vascular endothelium of the thoracic aorta [Shibuya et al. (2009) J. Biochem. 146, 623-626]. This finding provides a new insight into the production of the physiologically important signaling molecule.
+
+
+
+#### Extracellular transsulfuration generates hydrogen sulfide from homocysteine and protects endothelium from redox stress.
+
+
+
+2010 American journal of physiology. Heart and circulatory physiology
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/20817827
+
+
+
+https://doi.org/10.1152/ajpheart.00555.2010
+
+
+Bearden, Beard, Pfau
+
+
+
+Homocysteine, a cardiovascular and neurocognitive disease risk factor, is converted to hydrogen sulfide, a cardiovascular and neuronal protectant, through the transsulfuration pathway. Given the damaging effects of free homocysteine in the blood and the importance of blood homocysteine concentration as a prognosticator of disease, we tested the hypotheses that the blood itself regulates homocysteine-hydrogen sulfide metabolism through transsulfuration and that transsulfuration capacity and hydrogen sulfide availability protect the endothelium from redox stress. Here we show that the transsulfuration enzymes, cystathionine ß-synthase and cystathionine <U+03B3>-lyase, are secreted by microvascular endothelial cells and hepatocytes, circulate as members of the plasma proteome, and actively produce hydrogen sulfide from homocysteine in human blood. We further demonstrate that extracellular transsulfuration regulates cell function when the endothelium is challenged with homocysteine and that hydrogen sulfide protects the endothelium from serum starvation and from hypoxia-reoxygenation injury. These novel findings uncover a unique set of opportunities to explore innovative clinical diagnostics and therapeutic strategies in the approach to homocysteine-related conditions such as atherosclerosis, thrombosis, and dementia.
+
+
+
+#### Hydrogen sulfide as a gasotransmitter.
+
+
+2010 Journal of neurochemistry
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/20067586
+
+
+
+https://doi.org/10.1111/j.1471-4159.2010.06580.x
+
+
+Gadalla, Snyder
+
+
+
+Nitric oxide (NO) and carbon monoxide (CO) are well established as messenger molecules throughout the body, gasotransmitters, based on striking alterations in mice lacking the appropriate biosynthetic enzymes. Hydrogen sulfide (H(2)S) is even more chemically reactive, but until recently there was little definitive evidence for its physiologic formation. Cystathionine beta-synthase (EC 4.2.1.22), and cystathionine gamma-lyase (CSE; EC 4.4.1.1), also known as cystathionine, can generate H(2)S from cyst(e)ine. Very recent studies with mice lacking these enzymes have established that CSE is responsible for H(2)S formation in the periphery, while in the brain cystathionine beta-synthase is the biosynthetic enzyme. Endothelial-derived relaxing factor activity is reduced 80% in the mesenteric artery of mice with deletion of CSE, establishing H(2)S as a major physiologic endothelial-derived relaxing factor. H(2)S appears to signal predominantly by S-sulfhydrating cysteines in its target proteins, analogous to S-nitrosylation by NO. Whereas S-nitrosylation typically inhibits enzymes, S-sulfhydration activates them. S-nitrosylation basally affects 1-2% of its target proteins, while 10-25% of H(2)S target proteins are S-sulfhydrated. In summary, H(2)S appears to be a physiologic gasotransmitter of comparable importance to NO and carbon monoxide.
+
+
+
+#### Hydrogen sulfide: from brain to gut.
+
+
+2009 Antioxidants &amp; redox signaling
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/19803743
+
+
+
+https://doi.org/10.1089/ars.2009.2919
+
+
+Kimura
+
+
+
+Three hundred years have passed since the first description of the toxicity of hydrogen sulfide (H(2)S). Three papers in 1989 and 1990 described relatively high concentrations of sulfide in the brain. In 1996 we demonstrated that cystathionine beta-synthase (CBS) is a H(2)S producing enzyme in the brain and that H(2)S enhances the activity of NMDA receptors and facilitates the induction of hippocampal long-term potentiation (LTP), a synaptic model of memory. In the following year, we demonstrated that another H(2)S producing enzyme, cystathionine gamma-lyase is in the thoracic aorta, portal vein, and the ileum, and that H(2)S relaxes these tissues. Based on these observations we proposed H(2)S as a neuromodulator as well as a smooth muscle relaxant. We recently demonstrated that the third H(2)S-producing enzyme, 3-mercaptopyruvate sulfurtransferase (3MST) along with cysteine aminotransferase (CAT) produces H(2)S in the brain as well as in vascular endothelium. Various functions in many tissues have been proposed. H(2)S protects neurons and cardiac muscle from oxidative stress. H(2)S has pro- and anti-inflammatory effects, nociceptive effects, the regulatory function of insulin release, and is even involved in longevity. Recent progress in the studies of physiological functions of H(2)S in neurons and smooth muscle was described.
+
+
+
+#### Vascular endothelium expresses 3-mercaptopyruvate sulfurtransferase and produces hydrogen sulfide.
+
+
+2009 Journal of biochemistry
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/19605461
+
+
+https://doi.org/10.1093/jb/mvp111
+
+
+Shibuya, Mikami, Kimura, Nagahara, Kimura
+
+
+
+Hydrogen sulfide (H(2)S) has been recognized as a smooth muscle relaxant. Cystathionine gamma-lyase, which is localized to smooth muscle, is thought to be the major H(2)S-producing enzyme in the thoracic aorta. Here we show that 3-mercaptopyruvate sulfurtransferase (3MST) and cysteine aminotransferase (CAT) are localized to vascular endothelium in the thoracic aorta and produce H(2)S. Both 3MST and CAT were localized to endothelium. Lysates of vascular endothelial cells produced H(2)S from cysteine and alpha-ketoglutarate. The present study provides a new insight into the production and release of H(2)S as a smooth muscle relaxant from vascular endothelium.
+
+
+
+#### Hydrogen sulfide: a new EDRF.
+
+
+2009 Kidney international
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/19536086
+
+
+
+https://doi.org/10.1038/ki.2009.221
+
+
+Wang
+
+
+
+The first endothelium-derived relaxing factor (EDRF) ever identified is a gasotransmitter, nitric oxide (NO). Recent studies have provided several lines of evidence to support the premise that hydrogen sulfide (H(2)S), another gasotransmitter, is a new EDRF. H(2)S production is catalyzed in mammalian cells by cystathionine beta-synthase (CBS) and/or cystathionine gamma-lyase (CSE). The expression of CSE proteins and the activity of CBS have been observed in vascular endothelial cells. A measurable amount of H(2)S is produced from endothelium upon muscarinic cholinergic stimulation. The endothelium-dependent vasorelaxation induced by H(2)S shares many common mechanistic traits with those of endothelium-derived hyperpolarizing factor (EDHF). Deficiency in CSE expression increases blood pressure in CSE knockout mice and significantly diminishes endothelium-dependent relaxation of resistance arteries. More extensive and mechanistic studies in the future will help to determine whether H(2)S is a new EDRF or the very EDHF.
+
+
+
+#### Hydrogen sulfide: a new gaseous signal molecule and blood pressure regulator.
+
+
+2009 Journal of nephrology
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/19384833
+
+
+NA
+
+
+Wagner
+
+
+
+The gas hydrogen sulfide (H2S) is emerging as a novel regulator of important physiologic functions such as arterial diameter, blood flow and leukocyte adhesion. In addition, it may have antiinflammatory and antiapoptotic effects. H2S has recently attracted much interest as a potent vasorelaxative substance that may establish itself alongside another gaseous signal molecule, nitric oxide (NO). In contrast to NO, the major source of H2S in blood may be production by red blood cells or by vascular smooth muscle cells. H2S is produced from cysteine, involving the enzymes cystathionine beta-synthase and cystathionine gamma-lyase (CSE). The importance of CSE was recently demonstrated in a mouse lacking CSE which showed reduced H2S levels and developed hypertension and reduced endothelium-mediated vasorelaxation. These data establish H2S as a new and important biologic signal molecule and as a new regulator of vascular blood flow and blood pressure.
+
+
+
+#### Nitrotyrosinylation, remodeling and endothelial-myocyte uncoupling in iNOS, cystathionine beta synthase (CBS) knockouts and iNOS/CBS double knockout mice.
+
+
+
+2008 Journal of cellular biochemistry
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/19021146
+
+
+https://doi.org/10.1002/jcb.21982
+
+
+
+Kundu, Kumar, Sen, Mishra, Tyagi, Metreveli, Lominadze, Rodriguez, Tyagi
+
+
+
+Increased levels of homocysteine (Hcy), recognized as hyperhomocysteinemia (HHcy), were associated with cardiovascular diseases. There was controversy regarding the detrimental versus cardio protective role of inducible nitric oxide synthase (iNOS) in ischemic heart disease. The aim of this study was to test the hypothesis that the Hcy generated nitrotyrosine by inducing the endothelial nitric oxide synthase, causing endothelial-myocyte (E-M) coupling. To differentiate the role of iNOS versus constitutive nitric oxide synthase (eNOS and nNOS) in Hcy-mediated nitrotyrosine generation and matrix remodeling in cardiac dysfunction, left ventricular (LV) tissue was analyzed from cystathionine beta synthase (CBS) heterozygote knockout, iNOS homozygote knockout, CBS-/+/iNOS-/- double knockout, and wild-type (WT) mice. The levels of nitrotyrosine, MMP-2 and -9 (zymographic analysis), and fibrosis (by trichrome stain) were measured. The endothelial-myocyte function was determined in cardiac rings. In CBS-/+ mice, homocysteine was elevated and in iNOS-/- mice, nitric oxide was significantly reduced. The nitrotyrosine and matrix metalloproteinase-9 (MMP-9) levels were elevated in double knockout and CBS-/+ as compared to WT mice. Although MMP-2 levels were similar in CBS-/+, iNOS-/-, and CBS-/+/iNOS-/-, the levels were three- to fourfold higher than WT. The levels of collagen were similar in CBS-/+ and iNOS-/-, but they were threefold higher than WT. Interesting, the levels of collagen increased sixfold in double knockouts, compared to WT, suggesting synergism between high Hcy and lack of iNOS. Left ventricular hypertrophy was exaggerated in the iNOS-/- and double knockout, and mildly increased in the CBS-/+, compared to WT mice. The endothelial-dependent relaxation was attenuated to the same extent in the CBS-/+ and iNOS-/-, compared to WT, but it was robustly blunted in double knockouts. The results concluded that homocysteine generated nitrotyrosine in the vicinity of endothelium, caused MMP activation and endothelium-myocyte uncoupling. The generation of nitrotyrosine was independent of iNOS.
+
+
+
+#### Tissue-specific downregulation of dimethylarginine dimethylaminohydrolase in hyperhomocysteinemia.
+
+
+
+2008 American journal of physiology. Heart and circulatory physiology
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/18567702
+
+
+
+https://doi.org/10.1152/ajpheart.01348.2007
+
+
+Dayal, Rodionov, Arning, Bottiglieri, Kimoto, Murry, Cooke, Faraci, Lentz
+
+
+
+Asymmetric dimethylarginine (ADMA), an endogenous inhibitor of nitric oxide (NO) synthase, has been proposed to be a mediator of vascular dysfunction during hyperhomocysteinemia. Levels of ADMA are regulated by dimethylarginine dimethylaminohydrolase (DDAH). Using both in vitro and in vivo approaches, we tested the hypothesis that hyperhomocysteinemia causes downregulation of the two genes encoding DDAH (Ddah1 and Ddah2). In the MS-1 murine endothelial cell line, the addition of homocysteine decreased NO production but did not elevate ADMA or alter levels of Ddah1 or Ddah2 mRNA. Mice heterozygous for cystathionine beta-synthase (Cbs) and their wild-type littermates were fed either a control diet or a high-methionine/low-folate (HM/LF) diet to produce varying degrees of hyperhomocysteinemia. Maximal relaxation of the carotid artery to the endothelium-dependent dilator acetylcholine was decreased by approximately 50% in Cbs(+/-) mice fed the HM/LF diet compared with Cbs(+/+) mice fed the control diet (P &lt; 0.001). Compared with control mice, hyperhomocysteinemic mice had lower levels of Ddah1 mRNA in the liver (P &lt; 0.001) and lower levels of Ddah2 mRNA in the liver, lung, and kidney (P &lt; 0.05). Downregulation of DDAH expression in hyperhomocysteinemic mice did not result in an increase in plasma ADMA, possibly due to a large decrease in hepatic methylation capacity (S-adenosylmethionine-to-S-adenosylhomocysteine ratio). Our findings demonstrate that hyperhomocysteinemia causes tissue-specific decreases in DDAH expression without altering plasma ADMA levels in mice with endothelial dysfunction.
+
+
+
+#### Murine models of hyperhomocysteinemia and their vascular phenotypes.
+
+
+2008 Arteriosclerosis, thrombosis, and vascular biology
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/18556571
+
+
+https://doi.org/10.1161/ATVBAHA.108.166421
+
+
+Dayal, Lentz
+
+
+
+Hyperhomocysteinemia is an established risk factor for arterial as well as venous thromboembolism. Individuals with severe hyperhomocysteinemia caused by inherited genetic defects in homocysteine metabolism have an extremely high incidence of vascular thrombosis unless they are treated aggressively with homocysteine-lowering therapy. The clinical value of homocysteine-lowering therapy in individuals with moderate hyperhomocysteinemia, which is very common in populations at risk for vascular disease, is more controversial. Considerable progress in our understanding of the molecular mechanisms underlying the association between hyperhomocysteinemia and vascular thrombotic events has been provided by the development of a variety of murine models. Because levels of homocysteine are regulated by both the methionine and folate cycles, hyperhomocysteinemia can be induced in mice through both genetic and dietary manipulations. Mice deficient in the cystathionine beta-synthase (CBS) gene have been exploited widely in many studies investigating the vascular pathophysiology of hyperhomocysteinemia. In this article, we review the established murine models, including the CBS-deficient mouse as well as several newer murine models available for the study of hyperhomocysteinemia. We also summarize the major vascular phenotypes observed in these murine models.
+
+
+
+#### Simvastatin reverses the hypertension of heterozygous mice lacking cystathionine beta-synthase and apolipoprotein A-I.
+
+
+
+2008 Naunyn-Schmiedeberg's archives of pharmacology
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/18224302
+
+
+
+https://doi.org/10.1007/s00210-007-0247-6
+
+
+Carnicer, Navarro, Guillén, Arbonés-Mainar, Surra, Acín, Osada
+
+
+
+Double heterozygous mice lacking Apoa1 and Cbs genes show mild hyperhomocysteinemia in combination with hypoalphalipoproteinemia. This situation leads to a moderate hypertension associated with a dysregulation in nitric oxide metabolism. The aim of this study was to investigate the potential beneficial effects of statin treatment in these mice. After 4 weeks of simvastatin administration, plasma parameters; apolipoproteins A-I, A-II and A-IV; lipid profile; and blood pressure were assessed, Western blotting was performed in the aorta of these mice to measure endothelial nitric oxide synthase and caveolin-1 content. The high blood pressure level present in the double heterozygous group was corrected down to that of the wild-type group after simvastatin treatment (124+/-7.7 vs. 109+/-11.2 mmHg, p&lt;0.01). Concomitant with this effect, an increase in nitric oxide levels was observed in these double heterozygous mice receiving simvastatin treatment probably mediated in part by a decrease in caveolin-1 levels. Blood pressure changes appeared to be independent of the arylesterase activity of paraoxonase or the lipid content. Another remarkable result was the significant increase in apoA-IV content in animals receiving simvastatin, an effect considered to be protective for the endothelium. In conclusion, the results of this study demonstrate that the use of simvastatin can improve blood pressure control in mice with elevated homocysteinemia and low levels of apoA-I, and this effect is mediated by mechanisms independent of plasma lipids and related to nitric oxide levels.
+
+
+
+#### Differential effects of low and high dose folic acid on endothelial dysfunction in a murine model of mild hyperhomocysteinaemia.
+
+
+
+2006 European journal of pharmacology
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/17045583
+
+
+NA
+
+
+
+Clarke, Moat, Miller, Randall, Lewis, Lang
+
+
+
+The exact mechanism(s) by which hyperhomocysteinaemia promotes vascular disease remains unclear. Moreover, recent evidence suggests that the beneficial effect of folic acid on endothelial function is independent of homocysteine-lowering. In the present study the effect of a low (400 microg/70 kg/day) and high (5 mg/70 kg/day) dose folic acid supplement on endothelium-dependent relaxation in the isolated perfused mesenteric bed of heterozygous cystathionine beta-synthase deficient mice was investigated. Elevated total plasma homocysteine and impaired relaxation responses to methacholine were observed in heterozygous mice. In the presence of N(G)-nitro-L-arginine methyl ester relaxation responses in wild-type tissues were reduced, but in heterozygous tissues were abolished. Clotrimazole and 18alpha-glycyrrhetinic acid, both inhibitors of non-nitric oxide/non-prostanoid-induced endothelium-dependent relaxation, reduced responses to methacholine in wild-type but not heterozygous tissues. The combination of N(G)-nitro-L-arginine methyl ester and either clotrimazole or 18alpha-glycyrrhetinic acid completely inhibited relaxation responses in wild-type tissues. Both low and high dose folic acid increased plasma folate, reduced total plasma homocysteine and reversed endothelial dysfunction in heterozygous mice. A greater increase in plasma folate in the high dose group was accompanied by a more significant effect on endothelial function. In the presence of N(G)-nitro-L-arginine methyl ester, a significant residual relaxation response was evident in tissues from low and high dose folic acid treated heterozygous mice. These data suggest that the impaired mesenteric relaxation in heterozygous mice is largely due to loss of the non-nitric oxide/non-prostanoid component. While low dose folic acid may restore this response in a homocysteine-dependent manner, the higher dose has an additional effect on nitric oxide-mediated relaxation that would appear to be independent of homocysteine lowering.
+
+
+
+#### 3-Deazaadenosine mitigates arterial remodeling and hypertension in hyperhomocysteinemic mice.
+
+
+
+2006 American journal of physiology. Lung cellular and molecular physiology
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/16815886
+
+
+NA
+
+
+
+Ovechkin, Tyagi, Sen, Lominadze, Steed, Moshal, Tyagi
+
+
+
+Chronic hyperhomocysteinemia (HHcy) is an important factor in development of arterial hypertension. HHcy is associated with activation of matrix metalloproteinases (MMPs); however, it is unclear whether HHcy-dependent extracellular matrix (ECM) accumulation plays a role in arterial hypertrophy and hypertension. We tested the hypothesis that in HHcy the mechanism of arterial hypertension involves arterial dysfunction in response to ECM accumulation between endothelial and arterial smooth muscle cells and subsequent endothelium-myocyte (E-M) uncoupling. To decrease plasma Hcy, dietary supplementation with 3-deazaadenosine (DZA), the S-adenosylhomocysteine hydrolase inhibitor, was administered to cystathionine beta-synthase (CBS) knockout (KO) mice. Mice were grouped as follows: wild type (WT; control), WT+DZA, CBSKO, and CBSKO+DZA (n = 4/group). Mean aortic blood pressure and heart rate were monitored in real time with a telemetric system before, during, and after DZA treatment (6 wk total). In vivo aorta function and morphology were analyzed by M-mode and Doppler echocardiography in anesthetized mice. Aorta MMP activity in unfixed cryostat sections was measured with DQ gelatin. Aorta MMP-2, MMP-9, and connexin 43 expression were measured by RT-PCR and Western blot analyses, respectively. HHcy caused increased aortic blood pressure and resistance, tachycardia, and increased wall thickness and ECM accumulation in aortic wall vs. control groups. There was a linear correlation between aortic wall thickness and plasma Hcy levels. MMP-2, MMP-9, and connexin 43 expression were increased in HHcy. In the CBSKO+DZA group, aortic blood pressure and levels of MMP and connexin 43 were close to those found in control groups. However, removal of DZA reversed the aortic lumen-to-wall thickness ratio in CBSKO mice, suggesting, in part, a role of vascular remodeling in the increase in blood pressure in HHcy. The results show that arterial hypertension in HHcy mice is, in part, associated with arterial remodeling and E-M uncoupling in response to MMP activation.
+
+
+
+#### Enhanced susceptibility to arterial thrombosis in a murine model of hyperhomocysteinemia.
+
+
+2006 Blood
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/16804115
+
+
+NA
+
+
+Dayal, Wilson, Leo, Arning, Bottiglieri, Lentz
+
+
+
+Hyperhomocysteinemia is a risk factor for thrombosis, but the mechanisms are not well defined. We tested the hypothesis that hyperhomocysteinemia accelerates arterial thrombosis in mice. Mice heterozygous for a targeted disruption of the cystathionine beta-synthase gene (Cbs+/-) and wild-type littermates (Cbs+/+) were fed either a control diet or a high methionine/low folate (HM/LF) diet for 6 to 8 months to produce graded hyperhomocysteinemia. The time to occlusion of the carotid artery after photochemical injury was shortened by more than 50% in Cbs+/+ or Cbs+/- mice fed the HM/LF diet (P &lt; .001 versus control diet). Carotid artery thrombosis was not accelerated in mice deficient in endothelial nitric oxide synthase (Nos3), which suggests that decreased endothelium-derived nitric oxide is not a sufficient mechanism for enhancement of thrombosis. Cbs+/+ and Cbs+/- mice fed the HM/LF diet had elevated levels of reactive oxygen species in the carotid artery, increased aortic expression of the NADPH oxidase catalytic subunit, Nox4, and decreased activation of anticoagulant protein C in the aorta (P &lt; .05 versus control diet). We conclude that hyperhomocysteinemia enhances susceptibility to arterial thrombosis through a mechanism that is not caused by loss of endothelium-derived nitric oxide but may involve oxidative stress and impairment of the protein C anticoagulant pathway.
+
+
+
+#### Influence of folate on arterial permeability and stiffness in the absence or presence of hyperhomocysteinemia.
+
+
+
+2006 Arteriosclerosis, thrombosis, and vascular biology
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/16424349
+
+
+NA
+
+
+
+Symons, Zaid, Athanassious, Mullick, Lentz, Rutledge
+
+
+
+OBJECTIVE: Elevated plasma total homocysteine (tHcy) is associated with risk for cardiovascular disease. A common cause of mild hyperhomocysteinemia (HHcy) is folate deficiency. We sought to determine whether folate deficiency per se increases arterial permeability (quantitative fluorescence microscopy) and stiffness (vessel elastigraph), and whether the effects of folate deficiency are more severe in the presence of mild HHcy.METHODS AND RESULTS: Heterozygous cystathionine beta-synthase (CBS)-deficient mice (CBS(+/-)) and their wild-type littermates (CBS(+/+)) were fed chow containing either standard (Con) or relatively low amounts of folate (LF) for 18+/-3 weeks. Liver folate (microg folate/g liver) and tHcy (microM), respectively, were 12+/-1 and 8+/-1 in CBS(+/+) Con mice (n=12), and 8+/-1 and 8+/-1 in CBS(+/+) LF animals (n=5). Carotid arterial permeability was &amp;38% greater (P&lt;0.05) in CBS(+/+) LF versus Con mice, but vascular stiffening was unaltered. Liver folate and tHcy, respectively, were 13+/-1 and 11+/-1 in CBS(+/-) Con mice (n=16), and 8+/-1 and 16+/-3 in CBS(+/-) LF animals (n=6). Carotid arterial dextran accumulation was &amp;31% greater, and maximal strain in aortae was &amp;20% lower (both P&lt;0.05) in CBS(+/-) LF versus Con mice.CONCLUSIONS: Taken together, low folate (P&lt;0.05) combined with mild HHcy (P&lt;0.05) in CBS(+/-) mice produced more arterial dysfunction compared with low folate alone (ie, CBS(+/+) mice). These findings may be particularly relevant to elderly individuals because tHcy and deficiencies of folate metabolism increase with age.
+
+
+
+#### Inhibition of hydrogen sulfide generation contributes to gastric injury caused by anti-inflammatory nonsteroidal drugs.
+
+
+
+2005 Gastroenterology
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/16230075
+
+
+NA
+
+
+
+Fiorucci, Antonelli, Distrutti, Rizzo, Mencarelli, Orlandi, Zanardo, Renga, Di Sante, Morelli, Cirino, Wallace
+
+
+
+BACKGROUND &amp; AIMS: Hydrogen sulfide (H(2)S), an endogenous gaseous mediator that causes vasodilation, is generated in mammalian tissues by cystathionine beta-synthase (CBS) and cystathionine-gamma-lyase (CSE). Here, we have investigated the role of H(2)S in a rodent model of nonsteroidal anti-inflammatory drug (NSAID) gastropathy.METHODS: Rats were given acetyl salycilic acid (ASA) or an NSAID alone or in combination with NaHS, an H(2)S donor, and killed 3 hours later. Gastric blood flow was measured by laser-Doppler flowmetry, whereas intravital microscopy was used to quantify adhesion of leukocytes to mesenteric postcapillary endothelium.RESULTS: At a dose of 100 micromol/kg, NaHS attenuated by 60%-70% the gastric mucosal injury, and tumor necrosis factor (TNF)-alpha, intercellular adhesion molecule (ICAM)-1, and lymphocyte function-associated antigen (LFA)-1 mRNA up-regulation induced by NSAIDs (P &lt; .05) NaHS administration prevented the associated reduction of gastric mucosal blood flow (P &lt; .05) and reduced ASA-induced leukocyte adherence in mesenteric venules. NaHS did not affect suppression of prostaglandin E(2) (PGE(2)) synthesis by NSAIDs. Glibenclamide, a K(ATP) channel inhibitor, and DL-propargylglycine, a CSE inhibitor, exacerbated, whereas pinacidil, a K(ATP) opener, attenuated gastric injury caused by ASA. Exposure to NSAIDs reduced H(2)S formation and CSE expression (mRNA and protein) and activity by 60%-70%. By promoter deletion and mutation analysis, an Sp1 consensus site was identified in the CSE promoter. Exposure to NSAIDs inhibits Sp1 binding to its promoter and abrogates CSE expression in HEK-293 cells transfected with a vector containing the core CSE promoter. Exposure to NSAIDs inhibits Sp1 and ERK phosphorylation.CONCLUSIONS: These data establish a physiologic role for H(2)S in regulating the gastric microcirculation and identify CSE as a novel target for ASA/NSAIDs.
+
+
+
+#### Hyperhomocysteinemia inhibits post-injury reendothelialization in mice.
+
+
+2005 Cardiovascular research
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/16226235
+
+
+NA
+
+
+Tan, Jiang, Yang, Li, Liao, Trial, Magera, Durante, Yang, Wang
+
+
+
+OBJECTIVE: Hyperhomocysteinemia (HHcy) is a risk factor for cardiovascular disease and has been reported to inhibit endothelial cell (EC) growth. Notwithstanding, precisely how HHcy regulates EC growth in vivo remains unknown. In this study, we established a mouse model of endothelial injury and reendothelialization and examined the role and mechanism of HHcy in endothelial repair.METHODS AND RESULTS: A mouse model of carotid artery air-dry endothelium denudation and reendothelialization was established and used to evaluate post-injury endothelial repair in mice with the gene deletion of cystathionine-beta-synthase (CBS). Moderate and severe HHcy were induced in CBS+/+ and CBS-/+ mice through a high-methionine diet. Post-injury reendothelialization, which correlated with increased post-injury neointima formation, was impaired in severe HHcy mice. To elucidate the underlying mechanism, we examined circulating endothelial progenitor cells (EPC) in HHcy mice and studied the effect of homocysteine (Hcy) on proliferation, migration, and adhesion of human umbilical vein endothelial cells (HUVEC). The peripheral EPC population was not significantly altered in HHcy mice. Hcy had a profound inhibitory effect on EC proliferation and migration at physiologically relevant concentrations and inhibited EC adhesion at concentrations of 200 microM and higher.CONCLUSION: We have established a convenient and accurate mouse model of carotid injury in which the reendothelialization process can be precisely quantified. In addition, we have observed impaired reendothelialization and increased neointimal formation in severe HHcy mice. The capacity of Hcy to inhibit proliferation and migration of EC may be responsible for impaired reendothelialization and contribute to arteriosclerosis in HHcy.
+
+
+
+#### Hyperhomocystinemia impairs endothelial function and eNOS activity via PKC activation.
+
+
+
+2005 Arteriosclerosis, thrombosis, and vascular biology
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/16210565
+
+
+NA
+
+
+
+Jiang, Yang, Tan, Liao, Bryan, Randhawa, Rumbaut, Durante, Schafer, Yang, Wang
+
+
+
+OBJECTIVE: A risk factor for cardiovascular disease, hyperhomocystinemia (HHcy), is associated with endothelial dysfunction. In this study, we examined the mechanistic role of HHcy in endothelial dysfunction.METHODS AND RESULTS: Through the use of 2 functional models, aortic rings and intravital video microscopy of the cremaster, we found that arterial relaxation in response to the endothelium-dependent vessel relaxant, acetylcholine or the nitric oxide synthase (NOS) activator (A23187), was significantly impaired in cystathionine beta-synthase null (CBS(-/-)) mice. However, the vascular smooth muscle cell (VSMC) response to the nitric oxide (NO) donor (SNAP) was preserved in CBS(-/-) mice. In addition, superoxide dismutase and catalase failed to restore endothelium-dependent vasodilatation. Endothelial nitric oxide synthase (eNOS) activity was significantly reduced in mouse aortic endothelial cells (MAECs) of CBS(-/-) mice, as well as in Hcy-treated mouse and human aortic endothelial cells (HAECs). Hcy-mediated eNOS inhibition--which was not rescued by adenoviral transduction of superoxide dismutase and glutathione peroxidase, or by tetrahydrobiopterin, sepiapterin, and arginine supplementations in MAEC--was associated with decreased protein expression and increased threonine 495 phosphorylation of eNOS in HAECs. Ultimately, a protein kinase C (PKC) inhibitor, GF109203X (GFX), reversed Hcy-mediated eNOS inactivation and threonine 495 phosphorylation in HAECs.CONCLUSIONS: These data suggest that HHcy impairs endothelial function and eNOS activity, primarily through PKC activation.
+
+
+
+#### Determinants of early-onset cardiovascular disease: a case-control study of young myocardial infarction patients.
+
+
+
+2004 Italian heart journal : official journal of the Italian Federation of Cardiology
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/15554031
+
+
+
+NA
+
+
+Assanelli, Bonanome, Grassi, Archetti, Negrini, Pezzini, Curello, Visioli
+
+
+
+BACKGROUND: The present case-control investigation was undertaken with the aim of thoroughly assessing the risk profile of young coronary patients and to correlate it with their endothelium-dependent vasodilation and with the presence of atherosclerotic lesions.METHODS: Forty-eight subjects (age &lt; 41 years) diagnosed with myocardial infarction were screened. They were matched 1:1, for age and sex, with controls. We evaluated the serum total, HDL-, and LDL-cholesterol, triacylglycerols, fibrinogen, homocysteine, folic acid, vitamin B12, vitamin E, antioxidant capacity, and uric acid levels, and we also analyzed the patients for the presence of Helicobacter pylori and of methylenetetrahydrofolate reductase and cystathionine beta-synthase genetic mutations. Post-ischemic vasodilation of the brachial artery was evaluated and the intima-media thickness of the carotid arteries was measured at echo-Doppler.RESULTS: A statistical modeling selection between block variables revealed that smoking, the apoepsilon genotype, dyslipidemia, fibrinogen, vitamin E concentrations, and intima-media thickness were important predictors of cardiovascular disease, with an accuracy of 91.7%.CONCLUSIONS: On the basis of these results, we believe that acute coronary events in young subjects should be followed by a screening of their siblings, as they might be at higher risk for cardiovascular disease.
+
+
+
+#### Abnormal lipid metabolism in cystathionine beta-synthase-deficient mice, an animal model for hyperhomocysteinemia.
+
+
+
+2004 The Journal of biological chemistry
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/15466479
+
+
+NA
+
+
+
+Namekata, Enokido, Ishii, Nagai, Harada, Kimura
+
+
+
+Hyperhomocysteinemia (HHCY) is a consequence of impaired methionine/cysteine metabolism and is caused by deficiency of vitamins and/or enzymes such as cystathionine beta-synthase (CBS). Although HHCY is an important and independent risk factor for cardiovascular diseases that are commonly associated with hepatic steatosis, the mechanism by which homocysteine promotes the development of fatty liver is poorly understood. CBS-deficient (CBS(-/-)) mice were previously generated by targeted deletion of the Cbs gene and exhibit pathological features similar to HHCY patients, including endothelial dysfunction and hepatic steatosis. Here we show abnormal lipid metabolism in CBS(-/-) mice. Triglyceride and nonesterified fatty acid levels were markedly elevated in CBS(-/-) mouse liver and serum. The activity of thiolase, a key enzyme in beta-oxidation of fatty acids, was significantly impaired in CBS(-/-) mouse liver. Hepatic apolipoprotein B100 levels were decreased, whereas serum apolipoprotein B100 and very low density lipoprotein levels were elevated in CBS(-/-) mice. Serum levels of cholesterol/phospholipid in high density lipoprotein fractions but not of total cholesterol/phospholipid were decreased, and the activity of lecithin-cholesterol acyltransferase was severely impaired in CBS(-/-) mice. Abnormal high density lipoprotein particles with higher mobility in polyacrylamide gel electrophoresis were observed in serum obtained from CBS(-/-) mice. Moreover, serum cholesterol/triglyceride distribution in lipoprotein fractions was altered in CBS(-/-) mice. These results suggest that hepatic steatosis in CBS(-/-) mice is caused by or associated with abnormal lipid metabolism.
+
+
+
+#### Moderate hyperhomocysteinemia decreases endothelial-dependent vasorelaxation in pregnant but not nonpregnant mice.
+
+
+
+2004 Hypertension (Dallas, Tex. : 1979)
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/15249551
+
+
+NA
+
+
+Powers, Gandley, Lykins, Roberts
+
+
+
+Increased homocysteine is associated with the pregnancy complication preeclampsia and with later-life cardiovascular disease. Although elevated homocysteine persists after pregnancy, the vascular changes of preeclampsia abate with delivery, and cardiovascular disease occurs decades later. This suggests the vasculature during pregnancy may manifest increased sensitivity to homocysteine. We used the cystathionine-beta synthase (CBS)-deficient transgenic mouse to investigate whether hyperhomocysteinemia would differentially affect vascular function in nonpregnant and pregnant animals. Mesenteric arteries from nonpregnant and midpregnant (14 to 16 days) wild-type, heterozygous, and homozygous CBS-deficient transgenic mice were investigated for their response to vasoconstriction, endothelial-dependent, and endothelial-independent relaxation using an isometric wire myograph system. Endothelial-dependent vasodilation was similar in arteries from nonpregnant heterozygous and wild-type mice. In contrast, endothelial-dependent relaxation was reduced significantly in arteries from pregnant heterozygous animals compared with wild-type mice. Inhibition of NO synthesis blunted relaxation in arteries from pregnant wild-type but not pregnant heterozygous mice. Endothelial-dependent relaxation was restored by in vitro pretreatment with the tetrahydrobiopterin precursor sepiapterin. These data indicate that in pregnant mice, endothelial-dependent vasodilation is more sensitive to the effect of increased homocysteine than arteries from nonpregnant mice. This effect appears to result from a loss in NO-mediated relaxation that may be mediated by the oxidative inactivation of the NO synthase cofactor tetrahydrobiopterin.
+
+
+
+#### Role of hyperhomocysteinemia in endothelial dysfunction and atherothrombotic disease.
+
+
+2004 Cell death and differentiation
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/15243582
+
+
+NA
+
+
+Austin, Lentz, Werstuck
+
+
+
+Hyperhomocysteinemia (HHcy) is an independent risk factor for cardiovascular disease, including ischemic heart disease, stroke, and peripheral vascular disease. Mutations in the enzymes responsible for homocysteine metabolism, particularly cystathionine beta-synthase (CBS) or 5,10-methylenetetrahydrofolate reductase (MTHFR), result in severe forms of HHcy. Additionally, nutritional deficiencies in B vitamin cofactors required for homocysteine metabolism, including folic acid, vitamin B6 (pyridoxal phosphate), and/or B12 (methylcobalamin), can induce HHcy. Studies using animal models of genetic- and diet-induced HHcy have recently demonstrated a causal relationship between HHcy, endothelial dysfunction, and accelerated atherosclerosis. Dietary enrichment in B vitamins attenuates these adverse effects of HHcy. Although oxidative stress and activation of proinflammatory factors have been proposed to explain the atherogenic effects of HHcy, recent in vitro and in vivo studies demonstrate that HHcy induces endoplasmic reticulum (ER) stress, leading to activation of the unfolded protein response (UPR). This review summarizes the current role of HHcy in endothelial dysfunction and explores the cellular mechanisms, including ER stress, that contribute to atherothrombosis.
+
+
+
+#### Cerebral vascular dysfunction mediated by superoxide in hyperhomocysteinemic mice.
+
+
+2004 Stroke
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/15178827
+
+
+NA
+
+
+Dayal, Arning, Bottiglieri, Böger, Sigmund, Faraci, Lentz
+
+
+
+BACKGROUND AND PURPOSE: Hyperhomocysteinemia is an emerging risk factor for stroke, but little is known about effects of hyperhomocysteinemia on cerebral vascular function. We tested the hypothesis that chronic hyperhomocysteinemia in mice causes endothelial dysfunction in cerebral arterioles through a mechanism that involves superoxide.METHODS: Mice heterozygous for a targeted disruption of the cystathionine beta-synthase gene (Cbs+/-) and their wild type littermates (Cbs+/+) were fed either a control diet or a high-methionine diet for 10 to 12 months.RESULTS: Plasma total homocysteine was elevated with the high-methionine diet compared with the control diet for both Cbs+/+ (7.9+/-1.0 versus 5.0+/-0.5 micromol/L; P&lt;0.05) and Cbs+/- (20.5+/-3.1 versus 8.2+/-0.9 micromol/L; P&lt;0.001) mice. Dilatation of cerebral arterioles ( approximately 30 microm baseline diameter) was measured in vivo in response to the endothelium-dependent dilator acetylcholine or the endothelium-independent dilator nitroprusside. Vasodilatation to acetylcholine was impaired with the high-methionine diet compared with the control diet for both Cbs+/+ and Cbs+/- mice (P&lt;0.01). Dilatation of arterioles to acetylcholine was restored toward normal by the superoxide scavenger tiron (P&lt;0.05). Vasodilatation to nitroprusside was not influenced by Cbs genotype or diet. Dihydroethidium (DHE) staining for vascular superoxide was elevated in Cbs+/- mice fed the high-methionine diet and was inhibited by apocynin or Nomega-nitro-l-arginine methyl ester, implicating NAD(P)H oxidase and nitric oxide synthase as potential sources of superoxide.CONCLUSIONS: Superoxide is a key mediator of endothelial dysfunction in the cerebral circulation during diet-induced hyperhomocysteinemia.
+
+
+
+#### Moderately elevated plasma homocysteine impairs functional endothelial recovery following denudation of mouse carotid arteries.
+
+
+
+2004 Metabolism: clinical and experimental
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/15164325
+
+
+NA
+
+
+
+Miller, Witchel, Hancox, Jackson, Jeremy
+
+
+
+Increased total plasma homocysteine is an independent risk factor for cardiovascular disease. This study was designed to determine whether it can impair endothelial function, by examining the recovery of acetylcholine-evoked relaxation following mechanical denudation of the endothelium in the arteries of cystathionine beta-synthase knockout (CbetaS(+/-)) mice. Heterozygous CbetaS(+/-) mice had total plasma homocysteine concentrations significantly higher (8.9 +/- 1.1 micromol/L, n = 12) than strain-matched wild-types (4.6 +/- 0.4 micromol/L, n = 5; P =.003). Left common carotid arteries were denuded of endothelium using a 250-microm polytetrafluoroethylene filament. After 10 days, when the endothelium had completely regrown, relaxation to acetylcholine was measured in precontracted segments of artery. Uninjured right carotid arteries from the same animals served as internal controls. Relaxation to acetylcholine was significantly attenuated in the injured arteries of the CbetaS(+/-) mice, compared to wild-types (P =.017); furthermore, there was a significant negative correlation between sensitivity to acetylcholine and total plasma homocysteine concentration measured in the same animal (r = -0.69, P &lt;.003). These data suggest that even modest homocysteinemia has a deleterious effect on the function of healed endothelium in mouse arteries. This may account for its adverse influence on chronic cardiovascular disease.
+
+
+
+#### [Hyperhomocysteinemia: an independent risk factor or a simple marker of vascular disease?. 1. Basic data].
+
+
+
+2003 Pathologie-biologie
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/12801808
+
+
+NA
+
+
+Guilland, Favier, Potier de Courcy, Galan, Hercberg
+
+
+
+Recent epidemiological studies have suggested that hyperhomocysteinemia is associated with increased risk of vascular disease. Homocysteine is a sulphur-containing amino acid whose metabolism stands at the intersection of two pathways: remethylation to methionine, which requires folate and vitamin B12 (or betaine in an alternative reaction); and transsulfuration to cystathionine which requires vitamin B6. The two pathways are coordinated by S-adenosylmethionine which acts as an allosteric inhibitor of the methylenetetrahydrofolate reductase (MTHFR) and as an activator of cystathionine beta-synthase (CBS). Hyperhomocysteinemia arises from disrupted homocysteine metabolism. Severe hyperhomocysteinemia is due to rare genetic defects resulting in deficiencies in CBS, MTHFR, or in enzymes involved in methyl cobalamine synthesis and homocysteine methylation. Mild hyperhomocysteinemia seen in fasting condition is due to mild impairment in the methylation pathway (i.e. folate or B12 deficiencies or MTHFR thermolability). Post-methionine-load hyperhomocysteinaemia may be due to heterozygous cystathionine-beta-synthase defect or B6 deficiency. Patients with homocystinuria and severe hyperhomocysteinemia develop arterial thrombotic events, venous thromboembolism, and more seldom premature arteriosclerosis. Experimental evidence suggests that an increased concentration of homocysteine may result in vascular changes through several mechanisms. High levels of homocysteine induce sustained injury of arterial endothelial cells, proliferation of arterial smooth muscle cells and enhance expression/activity of key participants in vascular inflammation, atherogenesis, and vulnerability of the established atherosclerotic plaque. These effects are supposed to be mediated through its oxidation and the concomitant production of reactive oxygen species. Other effects of homocysteine include: impaired generation and decreased bioavailability of endothelium-derived relaxing factor/nitric oxide; interference with many transcription factors and signal transduction; oxidation of low-density lipoproteins; lowering of endothelium-dependent vasodilatation. In fact, the effect of elevated homocysteine appears multifactorial affecting both the vascular wall structure and the blood coagulation system.
+
+
+
+#### Homocysteine, endothelial dysfunction, and coronary artery disease: emerging strategy for secondary prevention.
+
+
+
+2003 Journal of cardiac surgery
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/12630544
+
+
+NA
+
+
+Woo, Qiao, Chook, Poon, Chan, Lau, Fung, Woo
+
+
+
+Atherosclerosis is an important medical problem of the 21st century, but traditional risk factors could only account for 50% of the problem. Hyperhomocysteinemia is emerging as an independent atherosclerosis risk factor, associated with folate deficiency, renal failure, and relative deficiency of MTHFR (C677T polymorphism) or other enzymes depending on gender, age, and smoking status. Hyperhomocysteinemia has been reported to occur in 11-22% of western people, in 3-5% of normal asymptomatic Chinese subjects aged 18-70 years in Hong Kong, Macau, Sydney, and San Francisco, 23-36% of Chinese in Hong Kong with premature coronary artery disease, and 29% of a nonselective series of coronary subjects in Hong Kong. Evidence is accumulating that documents its associations with atherosclerosis disease in both case-control observations and prospective cohort studies, in vitro experiments, and in vivo experimental models in both animals and human subjects, as well as the successful improvement by homocysteine-lowering of endothelial function as surrogate atherosclerosis endpoints in asymptomatic human and coronary patients (secondary prevention). A number of large scale homocysteine-lowering trials are currently underway for stroke and heart attacks prevention. Collectively these trials will include more than 65,000 patients at high-risk for cardiovascular and stroke events, and should provide a reliable evidence-base for prevention.
+
+
+
+#### Peroxisome proliferator ameliorates endothelial dysfunction in a murine model of hyperhomocysteinemia.
+
+
+
+2003 American journal of physiology. Lung cellular and molecular physiology
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/12533311
+
+
+NA
+
+
+
+Sood, Hunt, Tyagi
+
+
+
+To test the hypothesis that endothelial dysfunction in hyperhomocysteinemia was due to increased levels of nitrotyrosine and matrix metalloproteinase (MMP) activity in response to antagonism of peroxisome proliferator-activated receptor-alpha (PPAR-alpha), cystathionine beta-synthase (CBS) -/+ mice were bred, tail tissue was analyzed for genotype by PCR, and tail vein blood was analyzed for homocysteine (Hcy) by spectrofluorometry. To induce PPAR-alpha, mice were administered 8 microg/ml of ciprofibrate (CF) and grouped: 1) wild type (WT), 2) WT + CF, 3) CBS, 4) CBS + CF (n = 6 in each group). In these four groups of mice, plasma Hcy was 3.0 +/- 0.2, 2.5 +/- 1.2, 15.2 +/- 2.6 (P &lt; 0.05 compared with WT), 11.0 +/- 2.9 micromol/l. Mouse urinary protein was 110 +/- 11, 86 +/- 6, 179 +/- 13, 127 +/- 9 microg.day(-1). kg(-1) by Bio-Rad dye binding assay. Aortic nitrotyrosine was 0.099 +/- 0.012, 0.024 +/- 0.004, 0.132 +/- 0.024 (P &lt; 0.01 compared with WT), 0.05 +/- 0.01 (scan unit) by Western analysis. MMP-2 activity was 0.053 +/- 0.010, 0.024 +/- 0.002, 0.039 +/- 0.009, 0.017 +/- 0.006 (scan unit) by zymography. MMP-9 was specifically induced in CBS -/+ mice and inhibited by CF treatment. Systolic blood pressure (SPB) was 90 +/- 2, 88 +/- 16, 104 +/- 8 (P &lt; 0.05 compared with WT), 96 +/- 3 mmHg. Aortic wall stress [(SPB. radius(2)/wall thickness)/2(radius + wall thickness)] was 10.2 +/- 1.9, 9.7 +/- 0.2, 16.6 +/- 0.8 (P &lt; 0.05 compared with WT), 13.1 +/- 2.1 dyn/cm(2). The results suggest that Hcy increased aortic wall stress by increasing nitrotyrosine and MMP-9 activity.
+
+
+
+#### Vitamin C therapy ameliorates vascular endothelial dysfunction in treated patients with homocystinuria.
+
+
+
+2002 Journal of inherited metabolic disease
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/12118525
+
+
+NA
+
+
+
+Pullin, Bonham, McDowell, Lee, Powers, Wilson, Lewis, Moat
+
+
+
+OBJECTIVES: We sought to investigate the effects of short- and long-term vitamin C therapy on endothelial dysfunction in patients with homocystinuria.BACKGROUND: Untreated homocystinuria due to cystathionine beta-synthase deficiency is associated with premature atherothrombotic disease; 25% of untreated patients suffer a vascular event by the age of 16 years and 50% by 29 years. Treatment directed at reducing homocysteine accumulation significantly reduces this risk. However, despite 'optimal' treatment and compliance, hyperhomocysteinaemia usually persists and individuals exhibit endothelial dysfunction indicative of an adverse cardiovascular prognosis. Additional intervention is therefore required to further reduce cardiovascular risk.METHODS: We investigated the endothelial effects of acute (2 g single dose) and chronic (1 g/day for 6 months) administration of oral vitamin C in 5 patients with homocystinuria (mean age 26 years, 1 male) and 5 age- and sex-matched controls. Brachial artery endothelium-dependent flow-mediated dilatation (FMD) and endothelium-independent responses to nitroglycerin (NTG) were measured using high-resolution ultrasonic vessel wall-tracking.RESULTS: Baseline: Plasma total homocysteine was 100.8 +/- 61.6 and 9.2 +/- 1.9 micromol/L in the patient and control groups, respectively (p &lt; 0.001). FMD responses were impaired in the patient group (20 +/- 40 microm) compared with the controls (116 +/- 30 microm) (p &lt; 0.001). Vitamin C administration: FMD responses in the patient group improved both acutely, 160 +/- 65 microm at 4 h (p &lt; 0.001), and chronically, 170 +/- 70 microm at 2 weeks (p &lt; 0.001) and 170 +/- 40 microm at 6 months (p &lt; 0.001). FMD responses in the control group were unaltered (p = 0.526). Within both groups, neither the vascular response to NTG nor plasma homocysteine was altered (p &gt; 0.4).CONCLUSIONS: Vitamin C ameliorates endothelial dysfunction in patients with homocystinuria, independent of changes in homocysteine concentration and should therefore be considered as an additional adjunct to therapy to reduce the potential long-term risk of atherothrombotic disease.
+
+
+
+#### Cellular redox state and endothelial dysfunction in mildly hyperhomocysteinemic cystathionine beta-synthase-deficient mice.
+
+
+
+2002 Arteriosclerosis, thrombosis, and vascular biology
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/11788458
+
+
+NA
+
+
+
+Weiss, Heydrick, Zhang, Bierl, Cap, Loscalzo
+
+
+
+Previous in vitro experiments have shown that hyperhomocysteinemia leads to oxidative inactivation of nitric oxide, in part by inhibiting the expression of cellular glutathione peroxidase (GPx-1). To elucidate the role of intracellular redox status on homocysteine-induced endothelial dysfunction and oxidant stress, heterozygous cystathionine beta-synthase-deficient (CBS(-/+)) and wild-type (CBS(+/+)) mice were treated with the cysteine donor L-2-oxothiazolidine-4-carboxylic acid (OTC). CBS(-/+) mice had significantly lower GPx-1 activity compared with their CBS(+/+) littermates, and OTC treatment led to a modest increase in tissue GPx-1 activity and significant increases in total thiols and in reduced glutathione levels in both CBS(+/+) and CBS(-/+) mice. Superfusion of the mesentery with beta-methacholine or bradykinin produced dose-dependent vasodilation of mesenteric arterioles in CBS(+/+) mice and in CBS(+/+) mice treated with OTC. In contrast, mesenteric arterioles from CBS(-/+) mice manifested dose-dependent vasoconstriction in response to both agonists. OTC treatment of CBS(-/+) mice restored normal microvascular vasodilator reactivity to beta-methacholine and bradykinin. These findings demonstrate that mild hyperhomocysteinemia leads to endothelial dysfunction in association with decreased bioavailable nitric oxide. Increasing the cellular thiol and reduced glutathione pools and increasing GPx-1 activity restores endothelial function. These findings emphasize the importance of intracellular redox balance for nitric oxide bioactivity and endothelial function.
+
+
+
+#### Overexpression of cellular glutathione peroxidase rescues homocyst(e)ine-induced endothelial dysfunction.
+
+
+
+2001 Proceedings of the National Academy of Sciences of the United States of America
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/11606774
+
+
+
+NA
+
+
+Weiss, Zhang, Heydrick, Bierl, Loscalzo
+
+
+
+Homocyst(e)ine (Hcy) inhibits the expression of the antioxidant enzyme cellular glutathione peroxidase (GPx-1) in vitro and in vivo, which can lead to an increase in reactive oxygen species that inactivate NO and promote endothelial dysfunction. In this study, we tested the hypothesis that overexpression of GPx-1 can restore the normal endothelial phenotype in hyperhomocyst(e)inemic states. Heterozygous cystathionine beta-synthase-deficient (CBS((-/+))) mice and their wild-type littermates (CBS((+/+))) were crossbred with mice that overexpress GPx-1 [GPx-1((tg+)) mice]. GPx-1 activity was 28% lower in CBS((-/+))/GPx-1((tg-)) compared with CBS((+/+))/GPx-1((tg-)) mice (P &lt; 0.05), and CBS((-/+)) and CBS((+/+)) mice overexpressing GPx-1 had 1.5-fold higher GPx-1 activity compared with GPx-1 nontransgenic mice (P &lt; 0.05). Mesenteric arterioles of CBS((-/+))/GPx-1((tg-)) mice showed vasoconstriction to superfusion with beta-methacholine and bradykinin (P &lt; 0.001 vs. all other groups), whereas nonhyperhomocyst(e)inemic mice [CBS((+/+))/GPx-1((tg-)) and CBS((+/+))/GPx-1((tg+)) mice] demonstrated dose-dependent vasodilation in response to both agonists. Overexpression of GPx-1 in hyperhomocyst(e)inemic mice restored the normal endothelium-dependent vasodilator response. Bovine aortic endothelial cells (BAEC) were transiently transfected with GPx-1 and incubated with dl-homocysteine (HcyH) or l-cysteine. HcyH incubation decreased GPx-1 activity in sham-transfected BAEC (P &lt; 0.005) but not in GPx-1-transfected cells. Nitric oxide release from BAEC was significantly decreased by HcyH but not cysteine, and GPx-1 overexpression attenuated this decrease. These findings demonstrate that overexpression of GPx-1 can compensate for the adverse effects of Hcy on endothelial function and suggest that the adverse vascular effects of Hcy are at least partly mediated by oxidative inactivation of NO.
+
+
+
+#### [Homocysteine--a risk factor for atherosclerosis].
+
+
+2001 Orvosi hetilap
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/11481906
+
+
+NA
+
+
+
+Debreceni
+
+
+
+Elevated plasma homocysteine is a new risk factor for atherosclerotic vascular disease resulting in progressive atherogenesis in the arteries of the limbs, the coronary arteries and the cerebrovascular system. Hyperhomocysteinemia may be induced by failure or decreased enzyme activity of the cystathionine-beta-synthase and methylenetetrahydrofolate reductase due to genetic mutation or deficiency of folic acid, vitamin B12 and vitamin B6. Oxidation of homocysteine to homocystine is accompanied with production of hydrogen peroxide inducing damage of endothelium through oxidative stress. The injury of the endothelium by homocysteine can be shown by measuring flow-induced vasodilation in men. The abnormalities of coagulation found in hyperhomocysteinemia is related to the impairment of the function of endothelial cells and inhibition of the thrombomodulin-protein C and glycosaminoglycan-antithrombin-III anticoagulant system. Homocysteine decreases the level of glutathione peroxidase in the endothelial cells, and inhibits its activation leading to the impairment of oxidative defensive mechanism, and to the free radical-induced NO-inactivation. In decreasing of plasma homocysteine level and preventing its influence on endothelium, moreover in improving of endothelial function the folic acid has cardinal importance, however the vitamin B12 and vitamin B6 also play role in the maintenance of normal homocysteine level of blood.
+
+
+
+#### Endothelial dysfunction and elevation of S-adenosylhomocysteine in cystathionine beta-synthase-deficient mice.
+
+
+
+2001 Circulation research
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/11397788
+
+
+NA
+
+
+
+Dayal, Bottiglieri, Arning, Maeda, Malinow, Sigmund, Heistad, Faraci, Lentz
+
+
+
+Hyperhomocysteinemia is associated with increased risk for cardiovascular events, but it is not certain whether it is a mediator of vascular dysfunction or a marker for another risk factor. Homocysteine levels are regulated by folate bioavailability and also by the methyl donor S-adenosylmethionine (SAM) and its metabolite S-adenosylhomocysteine (SAH). We tested the hypotheses that endothelial dysfunction occurs in hyperhomocysteinemic mice in the absence of folate deficiency and that levels of SAM and SAH are altered in mice with dysfunction. Heterozygous cystathionine beta-synthase-deficient (CBS(+/-)) and wild-type (CBS(+/+)) mice were fed a folate-replete, methionine-enriched diet. Plasma levels of total homocysteine were elevated in CBS(+/-) mice compared with CBS(+/+) mice after 7 weeks (27.1+/-5.2 versus 8.8+/-1.1 micromol/L; P&lt;0.001) and 15 weeks (23.9+/-3.0 versus 13.0+/-2.3 micromol/L; P&lt;0.01). After 15 weeks, but not 7 weeks, relaxation of aortic rings to acetylcholine was selectively impaired by 35% (P&lt;0.05) and thrombomodulin anticoagulant activity was decreased by 20% (P&lt;0.05) in CBS(+/-) mice. Plasma levels of folate did not differ between groups. Levels of SAH were elevated approximately 2-fold in liver and brain of CBS(+/-) mice, and correlations were observed between plasma total homocysteine and SAH in liver (r=0.54; P&lt;0.001) and brain (r=0.67; P&lt;0.001). These results indicate that endothelial dysfunction occurs in hyperhomocysteinemic mice even in the absence of folate deficiency. Endothelial dysfunction in CBS(+/-) mice was associated with increased tissue levels of SAH, which suggests that altered SAM-dependent methylation may contribute to vascular dysfunction in hyperhomocysteinemia.
+
+
+
+#### Homocysteine, coagulation, platelet function, and thrombosis.
+
+
+2000 Seminars in thrombosis and hemostasis
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/11011842
+
+
+NA
+
+
+Coppola, Davi, De Stefano, Mancini, Cerbone, Di Minno
+
+
+
+Over the last 30 years, a growing body of evidence has documented the role of hyperhomocysteinemia (HHcy) as an independent vascular risk factor. However, the mechanisms through which elevated circulating levels of homocysteine (Hcy) cause vascular injury and promote thrombosis remain elusive. Most findings have been achieved in in vitro studies employing exceedingly high concentrations of Hcy, whereas only a few studies have been carried out in vivo in humans. In homocystinuric patients, homozygotes for mutations of the gene coding for the cystathionine beta-synthase enzyme, abnormalities of coagulation variables reflecting a hypercoagulable state, have been reported. In vitro studies provide a biochemical background for such a state. In homocystinuric patients, an in vivo platelet activation has also been reported. The latter abnormality is not corrected by the bolus infusion of concentrations of hirudin, which determines a long-lasting impairment of the conversion of fibrinogen to fibrin by thrombin; in contrast, it appears at least in part lowered by the administration of the antioxidant drug probucol. During the autooxidation of Hcy in plasma, reactive oxygen species are generated. The latter initiate lipid peroxidation in cell membranes (potentially responsible for endothelial dysfunction) and in circulating lipoproteins. Oxidized low-density lipoproteins (LDL) may trigger platelet activation as well as some of the hemostatic abnormalities reported in such patients. Thus the oxidative stress induced by Hcy may be a key process in the pathogenesis of thrombosis in HHcy. Accumulation of adenosylhomocysteine in cells (a consequence of high circulating levels of homocysteine) inhibits methyltransferase enzymes, in turn preventing repair of aged or damaged cells. This mechanism has been recently documented in patients with renal failure and HHcy and provides an additional direction to be followed to understand the tendency to thrombosis in moderate HHcy.
+
+
+
+#### Folate dependence of hyperhomocysteinemia and vascular dysfunction in cystathionine beta-synthase-deficient mice.
+
+
+
+2000 American journal of physiology. Heart and circulatory physiology
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/10993757
+
+
+NA
+
+
+
+Lentz, Erger, Dayal, Maeda, Malinow, Heistad, Faraci
+
+
+
+Hyperhomocysteinemia is a risk factor for stroke, myocardial infarction, and venous thrombosis. Moderate hyperhomocysteinemia is associated with impaired endothelial function, but the mechanisms responsible for endothelial dysfunction in hyperhomocysteinemia are poorly understood. We have used genetic and dietary approaches to produce hyperhomocysteinemia in mice. Heterozygous cystathionine beta-synthase-deficient mice (CBS +/-), which have a selective defect in homocysteine transsulfuration, and wild-type (CBS +/+) littermates were fed either a control diet or a diet that is relatively deficient in folic acid for 6 wk. Plasma total homocysteine was 5.3 +/- 0.7 microM in CBS +/+ mice and 6.4 +/- 0.6 microM in CBS +/- mice (P = 0.3) given the control diet. Plasma total homocysteine was 11.6 +/- 4.5 microM in CBS +/+ mice and 25.1 +/- 3.2 microM in CBS +/- mice (P = 0.004) given a low-folate diet. In mice fed the control diet, relaxation of aortic rings in response to the endothelium-dependent vasodilator acetylcholine did not differ significantly between CBS +/+ mice and CBS +/- mice. In contrast, in mice fed a low-folate diet, maximal relaxation to acetylcholine was markedly impaired in CBS +/- mice (58 +/- 9%) compared with CBS +/+ mice (84 +/- 4%) (P = 0.01). No differences in relaxation to the endothelium-independent vasodilator sodium nitroprusside were observed among the four groups of mice. These data indicate that CBS-deficient mice are predisposed to hyperhomocysteinemia during dietary folate deficiency, and moderate hyperhomocysteinemia is associated with marked impairment of endothelial function in mice.
+
+
+
+#### Endothelial dysfunction in a murine model of mild hyperhomocyst(e)inemia.
+
+
+2000 The Journal of clinical investigation
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/10953023
+
+
+NA
+
+
+
+Eberhardt, Forgione, Cap, Leopold, Rudd, Trolliet, Heydrick, Stark, Klings, Moldovan, Yaghoubi, Goldschmidt-Clermont, Farber, Cohen, Loscalzo
+
+
+
+
+Homocysteine is a risk factor for the development of atherosclerosis and its thrombotic complications. We have employed an animal model to explore the hypothesis that an increase in reactive oxygen species and a subsequent loss of nitric oxide bioactivity contribute to endothelial dysfunction in mild hyperhomocysteinemia. We examined endothelial function and in vivo oxidant burden in mice heterozygous for a deletion in the cystathionine beta-synthase (CBS) gene, by studying isolated, precontracted aortic rings and mesenteric arterioles in situ. CBS(-/+) mice demonstrated impaired acetylcholine-induced aortic relaxation and a paradoxical vasoconstriction of mesenteric microvessels in response to superfusion of methacholine and bradykinin. Cyclic GMP accumulation following acetylcholine treatment was also impaired in isolated aortic segments from CBS(-/+) mice, but aortic relaxation and mesenteric arteriolar dilation in response to sodium nitroprusside were similar to wild-type. Plasma levels of 8-epi-PGF(2alpha) (8-IP) were somewhat increased in CBS(-/+) mice, but liver levels of 8-IP and phospholipid hydroperoxides, another marker of oxidative stress, were normal. Aortic tissue from CBS(-/+) mice also demonstrated greater superoxide production and greater immunostaining for 3-nitrotyrosine, particularly on the endothelial surface. Importantly, endothelial dysfunction appears early in CBS(-/+) mice in the absence of structural arterial abnormalities. Hence, mild hyperhomocysteinemia due to reduced CBS expression impairs endothelium-dependent vasodilation, likely due to impaired nitric oxide bioactivity, and increased oxidative stress apparently contributes to inactivating nitric oxide in chronic, mild hyperhomocysteinemia.
+
+
+
+#### Tissue factor pathway inhibitor levels in patients with homocystinuria.
+
+
+2000 Thrombosis research
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/10828477
+
+
+NA
+
+
+Cella, Burlina, Sbarai, Motta, Girolami, Berrettini, Strauss
+
+
+
+Thrombotic events are a well-recognized complication of homocystinuria. However, the mechanisms involved in the atherogenic and thrombotic effects of homocyst(e)ine remain incompletely understood. The objective of this study was to determine the role of endothelial cell activation/damage as indicated by levels of thrombomodulin, tissue factor and tissue factor pathway inhibitor, and factor VII activity in patients with homocystinuria. Six patients with homocystinuria, nonresponsive to pyridoxine, treated only with trimethylglycine (betaine) were injected with a bolus of 20 IU/kg body weight of unfractionated commercial heparin to induce the release of tissue factor pathway inhibitor from the vascular endothelium. Tissue factor, thrombomodulin, and factor VII activity were measured by enzyme-linked immunosorbent assay and clotting assay before heparin administration. Tissue factor pathway inhibitor antigen and activity were measured before and 5 minutes after the bolus of heparin. Levels of homocyst(e)ine were elevated (patients: 144.2+/-19.2 micromol/L; controls: 10.2+/-0.9 micromol/L); however, levels of thrombomodulin, tissue factor, and tissue factor pathway inhibitor antigen were not statistically different from the control group. In contrast, tissue factor pathway inhibitor activity showed a significantly increased level (patients: 2.09+/-0.34 U/L; controls: 1.14+/-0.20 U/L; p&lt;0.05) that was correlated with homocyst(e)ine. Factor VII activity was significantly decreased (patients: 64.7+/-5.1%; controls: 91.4+/-4.7%; p&lt;0.05) and inversely correlated with homocyst(e)ine. After heparin the patients released higher amounts of tissue factor pathway inhibitor antigen and activity compared with the control group; however, the difference was not statistically significant. Although not treated with antithrombotic drugs, none of the patients had any thromboembolic complications after starting betaine. In addition to betaine treatment, the enhanced factor pathway inhibitor antigen activity observed in this small series of patients suggests that factor pathway inhibitor antigen may play an additional, as yet unexplained, role in this genetic disorder.
+
+
+
+#### [Hyperhomocysteinemia: atherothrombosis and neurotoxicity].
+
+
+
+2000 Acta physiologica, pharmacologica et therapeutica latinoamericana : organo de la Asociacion Latinoamericana de Ciencias Fisiologicas y [de] la Asociacion Latinoamericana de Farmacologia
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/10797837
+
+
+NA
+
+
+Fridman
+
+
+
+The positive correlation existing between hyperhomocyst(e)inemia [HH(e)] and vascular disease has firmly been established through data derived from numerous epidemiological and experimental observations. Clinical data corroborate that homocysteine (Hcy) is an independent risk factor for coronary, cerebral and peripheral arterial occlusive disease or peripheral venous thrombosis. Hcy is a sulfhydryl-containing amino acid that is formed by the demethylation of methionine. It is normally catalyzed to cystathionine by cystathionine beta-synthase a pyridoxal phosphate-dependent enzyme. Hcy is also remethylated to methionine by 5-methyltetrahydrofolate-Hcy methyltransferase (methionine synthase), a vitamin B12 dependent enzyme and by betaine-Hcy methyltransferase. Nutritional status such as vitamin B12, or vitamin B6, or folate deficiencies and genetic defects such as cystathionine beta-synthase or methylene-tetrahydrofolate reductase may contribute to increasing plasma homocysteine levels. The pathogenesis of Hcy-induced vascular damage may be multifactorial, including direct Hcy damage to the endothelium, stimulation of proliferation of smooth muscle cells, enhanced low-density lipoprotein peroxidation, increase of platelet aggregation, and effects on the coagulation system. Besides adverse effects on the endothelium and vessel wall, Hcy exert a toxic action on neuronal cells trough the stimulation of N-methyl-D-aspartate (NMDA) receptors. Under these conditions, neuronal damage derives from excessive calcium influx and reactive oxygen generation. This mechanism may contribute to the cognitive changes and markedly increased risk of cerebrovascular disease in children and young adults with homocystunuria. Moreover, during stroke, in hiperhomocysteinemic patients, disruption of the blood-brain barrier results in exposure of the brain to near plasma levels of Hcy. The brain is exposed to 15-50 microM H(e). Thus, the neurotoxicity of Hcy acting through the overstimulation of NMDA receptors could contribute to neuronal damage in homocystinuria and HH(e). Since HH(e) is associated with certain neurodegeneratives diseases, in the present review, the molecular mechanisms involved in neurotoxicity due to Hcy are discussed.
+
+
+
+#### Novel risk factors for vascular disease: the homocysteine hypothesis of cardiovascular disease.
+
+
+
+1999 Journal of cardiovascular risk
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/9919468
+
+
+NA
+
+
+Wilcken
+
+
+
+The possibility that modest elevations in the level of blood homocysteine (hyperhomocysteinaemia) could contribute to cardiovascular disease arose from investigation of patients with rare, severe homocysteine elevations caused by cystathionine beta-synthase deficiency. Such patients often had thromboembolic events before the age of 30 years. Since the established cardiovascular risk factors could only partly account for the occurrence and severity of vascular disease in the general population, other risk factors had to exist, and homocysteine elevation seemed to be a possible candidate. Australian case-control studies identified an association between mild homocysteine elevation and early-onset coronary disease, and also with chronic renal failure. Patients in the latter group have a high prevalence of unexplained vascular disease and particularly high homocysteine levels. Such elevations in levels of homocysteine in vascular patients could usually be normalised by daily supplementation with folic acid (1-5 mg) while in patients with chronic renal failure 5 mg of folic acid daily markedly reduced the increased concentrations of homocysteine. These initial observations have been confirmed by many investigators and biologically plausible mechanisms for homocysteine-induced vascular dysfunction, and particularly endothelial dysfunction, have been identified. However, associations between hyperhomocysteinaemia and other risk factors, such as smoking and hypertension, have also been documented and need to be controlled for when assessing any increase in risk that homocysteine may independently confer. Although it has been established that lowering the greatly elevated blood homocysteine levels in homocystinuria, due to cystathione beta-synthase deficiency, unquestionably reduces cardiovascular risk, it remains to be determined whether normalising mild homocysteine elevation could reduce cardiovascular risk. Trials to test this possibility have been initiated and others are planned.
+
+
+
+#### Induction of acute translational response genes by homocysteine. Elongation factors-1alpha, -beta, and -delta.
+
+
+
+1998 The Journal of biological chemistry
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/9677419
+
+
+NA
+
+
+Chacko, Ling, Hajjar
+
+
+
+The thiol amino acid homocysteine (HC) accumulates in homocystinuria and homocyst(e)inemia, and is associated with a wide variety of clinical manifestations. To determine whether HC influences the cell's program of gene expression, vascular endothelial cells were treated with HC for 6-42 h and analyzed by differential display. We found a 3-7-fold, time-dependent induction of a 220-base pair fragment, which demonstrated complete sequence identity with elongation factor-1delta (EF-1delta), a member of the multimeric complex regulating mRNA translation. Fibroblasts from cystathionine beta-synthase -/- individuals also showed up to 3.0-fold increased levels of mRNA for EF-1alpha, -beta, and -delta when compared with normal cells, and treatment of normal cells with the HC precursor, methionine, induced a 1.5-2.0-fold increase in EF-1alpha, -beta, and -delta mRNA. This induction was completely inhibited by cycloheximide and reflected a doubling in the rate of gene transcription in nuclear run-on analyses. In HC-treated endothelial cells, pulse-chase studies revealed a doubling in the rate of synthesis of the thiol-containing protein, annexin II, but no change in synthesis of the cysteineless protein, plasminogen activator inhibitor-1. Thus, HC induces expression of a family of acute translational response genes through a protein synthesis-dependent transcriptional mechanism. This process may mediate accelerated synthesis of free thiol-containing proteins in response to HC-induced oxidative stress.
+
+
+
+#### Characterization of the stress-inducing effects of homocysteine.
+
+
+1998 The Biochemical journal
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/9576870
+
+
+NA
+
+
+Outinen, Sood, Liaw, Sarge, Maeda, Hirsh, Ribau, Podor, Weitz, Austin
+
+
+
+The mechanism by which homocysteine causes endothelial cell (EC) injury and/or dysfunction is not fully understood. To examine the stress-inducing effects of homocysteine on ECs, mRNA differential display and cDNA microarrays were used to evaluate changes in gene expression in cultured human umbilical-vein endothelial cells (HUVEC) exposed to homocysteine. Here we show that homocysteine increases the expression of GRP78 and GADD153, stress-response genes induced by agents or conditions that adversely affect the function of the endoplasmic reticulum (ER). Induction of GRP78 was specific for homocysteine because other thiol-containing amino acids, heat shock or H2O2 did not appreciably increase GRP78 mRNA levels. Homocysteine failed to elicit an oxidative stress response in HUVEC because it had no effect on the expression of heat shock proteins (HSPs) including HSP70, nor did it activate heat shock transcription factor 1. Furthermore homocysteine blocked the H2O2-induced expression of HSP70. In support of our findings in vitro, steady-state mRNA levels of GRP78, but not HSP70, were elevated in the livers of cystathionine beta-synthase-deficient mice with hyperhomocysteinaemia. These studies indicate that the activation of stress response genes by homocysteine involves reductive stress leading to altered ER function and is in contrast with that of most other EC perturbants. The observation that homocysteine also decreases the expression of the antioxidant enzymes glutathione peroxidase and natural killer-enhancing factor B suggests that homocysteine could potentially enhance the cytotoxic effect of agents or conditions known to cause oxidative stress.
+
+
+
+#### [Deregulation of homocysteine metabolism and consequences for the vascular system].
+
+
+
+1997 Bulletin de l'Academie nationale de medecine
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/9235230
+
+
+NA
+
+
+Nicolas, Chango
+
+
+
+The link between vascular disease and elevated homocysteine levels has been recognized for more than 30 years, and association with moderately elevated levels has been suspected for 20 years. Homocysteine is a sulfhydryl-containing amino acid that is formed by the demethylation of methionine. It is normally catalysed to cystathionine by cystathionine beta-synthase a pyridoxal phosphate-dependent enzyme. Homocysteine is also remethylated to methionine by methionine synthase, a vitamin B12 dependent enzyme and by methylenetetrahydrofolate reductase. Environmental factors such as folate, or vitamin B12, or vitamin B6 deficiencies and genetic defects such as cystathionine beta-synthase or abnormality of methylene-tetrahydrofolate reductase or some vitamin B12 metabolism defects may contribute to increasing plasma homocysteine levels. Normal fasting levels of homocysteine lie within the range 6-16 mumol/l. Apart from differences in assay methods, age, sex and nutritional status may affect the plasma levels. Though it is now well known that homocysteine is an independent risk factor for premature vascular disease, the pathogenesis of homocysteine-induced vascular damage is, for the most part, unknown. It may be multifactorial, including direct homocysteine damage to the endothelium, an enhanced low-density lipoprotein peroxidation, an increase of platelet thromboxane A2, or a decrease of protein C activation.
+
+
+
+#### Homocysteinemia: association of a metabolic disorder with vascular disease and thrombosis.
+
+
+1993 Thrombosis research
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/8236162
+
+
+NA
+
+
+Rees, Rodgers
+
+
+
+
+
+#### Homocysteine catabolism: levels of 3 enzymes in cultured human vascular endothelium and their relevance to vascular disease.
+
+
+
+1992 Atherosclerosis
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/1445498
+
+
+NA
+
+
+Wang, Dudman, Wilcken, Lynch
+
+
+
+Elevated plasma homocysteine enhances the risk of thrombosis and premature arteriosclerosis. We have assessed the activity of the 3 prime enzymes of homocysteine metabolism in cultured human venous endothelial cells, in a study of their possible protective roles. In cells from 4 individuals, cultured in Dulbecco's modified Eagle medium, the mean activity +/- S.D. of cystathionine beta-synthase (nmol of product/h per mg of cell protein, at 37 degrees C) was 3.58 +/- 3.11 at pH 8.6. The assay used was our newly developed amino acid analyser-based procedure. The activity of 5-methyltetrahydrofolate:homocysteine methyltransferase at pH 7.4 was 4.12 +/- 1.25 and betaine:homocysteine methyltransferase (BHMT) was undetectable (&lt; 1.4 nmol/h per mg protein). Cells were also cultured in a medium aimed at stimulating methionine biosynthesis, containing methionine-deficient Dulbecco's modified Eagle medium to which L-homocystine (100 mumol/l) and methylcobalamin (1 mumol/l) had been added. In these cells 5-methyltetrahydrofolate:homocysteine methyltransferase activity increased to 7.95 +/- 1.45, P &lt; 0.001, there was a non-significant decrease in cystathionine beta-synthase activity to 2.16 +/- 1.52 and BHMT activity was still undetectable. These cells were more resistant to in vitro homocysteine-induced detachment than were cells from the same line cultured in Dulbecco's modified Eagle medium alone. Our findings establish that human endothelial cells express 2 of the 3 primary enzymes of homocysteine catabolism. They suggest that persons who are deficient in cystathionine beta-synthase or 5-methyltetrahydrofolate:homocysteine methyltransferase activity may not only develop homocysteinemia, but also have vascular endothelium which is more susceptible to damage by homocysteine than persons with normal enzyme levels.
+
+
+
+#### The role of free radicals as mediators of endothelial cell injury in hyperhomocysteinemia.
+
+
+1992 Irish journal of medical science
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/1428778
+
+
+NA
+
+
+Clarke, Naughten, Cahalane, Sullivan, Mathias, McCall, Graham
+
+
+
+Hyperhomocysteinemia has been suggested as a potent new risk factor for premature cardiovascular disease. Homocsyteine can induce endothelial cell injury but the mechanism is not understood. The purpose of this study was to evaluate the role of free radicals as potential causes of endothelial cell injury in a case-control study of obligate heterozygotes for cystathionine beta-synthase deficiency. Firstly, free radical production as measured by neutrophil chemiluminescence in obligate heterozygotes for cystathionine beta-synthase deficiency was compared with age- and sex-matched normal subjects. Secondly, the response of the cellular antioxidant system was examined by measuring the enzymes superoxide dismutase and glutathione peroxidase, their cofactors (selenium, copper), vitamin E and vitamin A in heterozygotes and normal subjects. Analyses of neutrophil chemiluminescence, vitamin A and E, glutathione peroxidase, selenium and copper showed no difference between heterozygotes and controls. While superoxide dismutase activity was higher in heterozygotes than normal subjects, the difference did not reach statistical significance and the hypothesis of excess free radical production as a mechanism of injury was not confirmed. However, further examination of superoxide dismutase activity in a larger number of subjects would be of interest.
+
+
+
+#### Homocysteine thiolactone disposal by human arterial endothelial cells and serum in vitro.
+
+
+
+1991 Arteriosclerosis and thrombosis : a journal of vascular biology
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/2029504
+
+
+NA
+
+
+
+Dudman, Hicks, Lynch, Wilcken, Wang
+
+
+
+Previous work with cultured mammalian cells and perfused laboratory animals suggested to us that hydrolysis of homocysteine thiolactone was catalyzed in these systems. We confirmed this finding by measuring the sulfhydryl-releasing activity of cultured endothelial cells from human umbilical arteries in homocysteine thiolactone solution, pH 7.4, 37 degrees C. The reaction was vigorous and stereospecific and showed saturation kinetics (Km values for L- and D,L-homocysteine thiolactone were 3.9 and 8.2 mmol/l, respectively, and Vmax values were 10.75 and 10.1 mumol/min/10(9) cells, respectively). L-Homocysteine thiolactone was quantitatively converted to homocysteine, as measured by amino acid analysis. Human serum also accelerated the elimination of homocysteine thiolactone, although in this process, the majority of the newly formed sulfhydryl-containing product was precipitable by sulfosalicylic acid, indicating likely homocysteinylation of serum proteins. However, approximately 38% of the sulfhydryl-containing product was not precipitated, and because thiolactone elimination stereospecifically favored the L-enantiomer, a possible subsidiary role for serum-catalyzed hydrolysis of the thiolactone was suggested. No homocysteine thiolactone could be found in serum samples from six patients with acute myocardial infarction, three patients with cystathionine beta-synthase deficiency, and six normal subjects. Thus, humans have active vascular systems for elimination of homocysteine thiolactone, a process that could be responsible for an absence of the compound in serum.
+
+
+
+#### Homocystinuria: pathogenetic mechanisms.
+
+
+1977 The American journal of the medical sciences
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/324277
+
+
+NA
+
+
+Grieco
+
+
+
+Homocystinuria with elevated plasma homocysteine and methionine levels is the result of deficient activity of cystathionine synthetase, the enzyme catalyzing conversion of homocysteine to cystathionine. It is inherited as an autosomal recessive trait with a worldwide distribution. The major clinical manifestations result from the elevated plasma homocysteine level. The excitotoxic effect of homocysteic acid accounts for mental retardation and seizures. Interference with collagen cross-linking by sulfhydryl groups of homocysteine causes ectopia lentis and skeletal deformities. Sulfation factor-like effects contribute to disruption of vascular endothelium, which is followed by platelet thrombosis and widespread arterial and venous occlusions. Low methionine homocystinuria, with deficient remethylation of homocysteine, results from deranged vitamin B(12) metabolism and from deficient 5,10-methylene-tetrahydrofolate reductase. Administration of azaribine produces homocystinuria by mechanism not yet elucidated.
+
+
+

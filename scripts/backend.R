@@ -5,13 +5,12 @@
 # year, abstract and outputs a wordcloud and an html with formatted mined text.
 ################################################################################
 # LOAD libraries
-if (!require(pacman)) {
-      install.packages('pacman')
-}
-p_load(char = c('rmarkdown',
-                'RISmed',
-                'SnowballC',
-                'tidyverse'))
+if (!require('pacman')) install.packages('pacman')
+pacman::p_load(rmarkdown,
+               RISmed,
+               Snowballc,
+               tidyverse,
+               hellno)
 
 # setup folders
 folder <- './temp/'
@@ -24,7 +23,7 @@ ifelse(!dir.exists(folder), dir.create(folder), FALSE)
 # query <- 'Henning RH[Author]'
 # query <- 'Majtan T[Author]'
 # query <- 'vascular adipose tissue'
-query <- 'adipose tissue'
+query <- 'cystathionine beta synthase'
 # create the main object of class 'Medline' which contains all mined data
 # and has most methods from package RISmed applicable
 pubmed <- EUtilsGet(EUtilsSummary(query))
@@ -85,10 +84,7 @@ cat(c("---",
       paste0("            ", "self_contained: no"),
       "---",
       ""),
-    file = path,
-    append = TRUE,
-    fill = TRUE,
-    sep = "\n")
+    file = path, append = TRUE, fill = TRUE, sep = "\n")
 
 # write source text to .Rmd file
 for (i in c(1:nrow(pubmed.subset))) {
@@ -107,10 +103,7 @@ for (i in c(1:nrow(pubmed.subset))) {
             '\n',
             pubmed.subset$Abstract[i],
             '\n'),
-          file = path,
-          append = TRUE,
-          fill = TRUE,
-          sep = '\n')
+          file = path, append = TRUE, fill = TRUE, sep = '\n')
 }
 
 ################################################################################
@@ -119,3 +112,30 @@ for (i in c(1:nrow(pubmed.subset))) {
 # render(input = path, output_dir = folder, encoding = 'UTF-8')
 # clean up workspace (remove source .Rmd file)
 # file.remove(path)
+
+# XML load code from Skander
+# getRVEST=function(x='NCT03478891') {
+#       
+#       urL=paste0('https://clinicaltrials.gov/ct2/show/',x,'?displayxml=true')
+#       require(XML)
+#       result = tryCatch({download.file(url = urL, destfile = "testing.xml")}, error = function(e) {
+#             return(NA)});if(is.na(result))return(NA)##endifmissing
+#       rval=(xmlToList(xmlParse('testing.xml')))
+#       fix_rval=lapply(rval,function(ZZ){ if(length(ZZ)==0){return(NA)}
+#             return(toString(ZZ))} ) 
+#       setDT(data.frame(fix_rval))
+#       return(fix_rval)
+# }
+# 
+# getit=lapply( new_a$NTCid, getRVEST)#slow (mine trialsgov)
+# 
+# base= data.frame(getit[[1]])
+# for(QQ in 2:length(getit))#length(fb))
+# {
+#       new=data.frame(getit[[QQ]])
+#       base=rbind(setDT(base), setDT(new),fill=TRUE)
+#       flush.console(); print(QQ)
+#       
+# }
+# check1=names(which(apply(base,2,function(x)sum(is.na(x))/length(x)) <0.9))
+# base[ ,check1, with=FALSE ]

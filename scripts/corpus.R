@@ -14,13 +14,13 @@ if (!require(wordVectors)) {
 if (!require(pacman)) {
       install.packages('pacman')
 }
-p_load(c('wordcloud',
-         'RColorBrewer',
-         'tm',
-         'wordVectors',
-         'tsne',
-         'magrittr',
-         'ggrepel'))
+pacman::p_load(wordcloud,
+               RColorBrewer,
+               tm,
+               wordVectors,
+               tsne,
+               magrittr,
+               ggrepel)
 
 ################################################################################
 # create text CORPUS and clean text
@@ -29,8 +29,7 @@ p_load(c('wordcloud',
 # todo: bundle n-grams (bigram example is 'olive oil', bundled to 'olive_oil')
 corpus <- pubmed.subset$Abstract %>%
       # create corpus
-      VectorSource() %>%
-      Corpus() %>%
+      VectorSource() %>% Corpus() %>%
       # clean corpus
       tm_map(tolower) %>%
       tm_map(removePunctuation) %>% # caution: protein names contain '-' or /'
@@ -40,8 +39,7 @@ corpus <- pubmed.subset$Abstract %>%
 
 # collapse corpus for exporting as single string
 corpus.export <- lapply(corpus, as.character) %>%
-      unlist %>%
-      paste(collapse = 'a')
+      unlist %>% paste(collapse = 'a')
 
 # write corpus to file
 write(corpus.export, file = 'temp/corpus.txt')
@@ -56,7 +54,8 @@ corpus.dtm <- DocumentTermMatrix(corpus)
 # it is 1.5GB and trained on 3 mil words x 300 features
 ################################################################################
 # convert words to phrases ('New' and 'York' give 'New_York')
-word2phrase(train_file = 'temp/corpus.txt', output_file = 'temp/corpus_phrased.txt',
+word2phrase(train_file = 'temp/corpus.txt',
+            output_file = 'temp/corpus_phrased.txt',
             force = TRUE, debug_mode = 2)
 # train
 model <- train_word2vec('temp/corpus_phrased.txt','temp/corpus_model.bin',
@@ -108,7 +107,7 @@ ggplot(data = cosine, aes(x = word1, y = word2, label = word)) +
            x = search.word1, y = search.word2)
 dev.off()
 
-# this optional code can plot many words form model without selection
+# this optional code can plot many words from model without selection
 # wordVectors::plot(x = model, method = 'tsne')
 
 ################################################################################
@@ -116,8 +115,7 @@ dev.off()
 ################################################################################
 # read in phrased corpus
 corpus.phrased <- scan('temp/corpus_phrased.txt', what = 'character') %>%
-      VectorSource() %>%
-      Corpus()
+      VectorSource() %>% Corpus()
 
 # setup folder
 folder <- './graphics/'
