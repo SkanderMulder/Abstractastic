@@ -20,6 +20,8 @@ pacman::p_load(wordcloud,
                wordVectors,
                tsne,
                magrittr,
+               quanteda,
+               openxlsx,
                ggrepel)
 
 ################################################################################
@@ -134,3 +136,10 @@ wordcloud(words = corpus.phrased,
           random.color = TRUE,
           color = brewer.pal(7, 'Paired'))
 dev.off()
+
+################################################################################
+# JOURNALS
+################################################################################
+journals <- table(pubmed.subset$Journal) %>% as.data.frame
+
+write_excel_csv(journals, 'data/journals.csv')
